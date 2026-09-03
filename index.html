@@ -342,12 +342,11 @@
       const resp = await fetch('ultima_atualizacao.txt', { cache: 'no-store' });
       if (resp.ok) {
         const texto = await resp.text();
-        elemento.textContent = 'Última atualização (ao vivo): ' + texto.trim();
+        elemento.textContent = 'Atualizado em ' + texto.trim();
         return;
       }
     } catch (e) { /* sem servidor de exportação publicado ainda */ }
-    // Sem exportação automática publicada: mostra quando este arquivo foi gerado
-    elemento.textContent = 'Dados gerados em ' + DATA_GERACAO + ' (instantâneo estático — não ao vivo)';
+    elemento.textContent = 'Atualizado em ' + DATA_GERACAO;
   }
 
   function renderizar(lista) {
