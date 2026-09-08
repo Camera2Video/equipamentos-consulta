@@ -422,7 +422,9 @@
       return;
     }
 
-    const encontrados = [];
+    // Coleta TODOS os resultados primeiro (sem cortar cedo), para poder
+    // ordenar direito antes de limitar quantos aparecem na tela.
+    const todosEncontrados = [];
     for (let i = 0; i < indiceBusca.length; i++) {
       const item = indiceBusca[i];
       const bateuPat = termosPat.length === 0 || termosPat.every(t => item.patrimonio.includes(t));
@@ -431,16 +433,31 @@
       const bateuGrupo = termosGrupo.length === 0 || termosGrupo.every(t => item.grupo.includes(t));
 
       if (bateuPat && bateuNS && bateuEquip && bateuGrupo) {
-        encontrados.push(item.registro);
-        if (encontrados.length >= LIMITE_RESULTADOS) break;
+        todosEncontrados.push(item.registro);
       }
     }
 
+    // Ordenação conforme o campo usado na busca:
+    // Patrimônio -> decrescente por número (12121 aparece antes de 121)
+    // NS ou Descrição -> alfabética por Grupo
+    if (termosPat.length > 0) {
+      todosEncontrados.sort((a, b) => {
+        const na = parseInt(String(a.Patrimonio || '').replace(/^0+(?=\d)/, ''), 10) || 0;
+        const nb = parseInt(String(b.Patrimonio || '').replace(/^0+(?=\d)/, ''), 10) || 0;
+        return nb - na;
+      });
+    } else if (termosNS.length > 0 || termosEquip.length > 0) {
+      todosEncontrados.sort((a, b) =>
+        String(a.Grupo || '').localeCompare(String(b.Grupo || ''), 'pt-BR')
+      );
+    }
+
+    const encontrados = todosEncontrados.slice(0, LIMITE_RESULTADOS);
     renderizar(encontrados);
 
-    if (encontrados.length === LIMITE_RESULTADOS) {
+    if (todosEncontrados.length > LIMITE_RESULTADOS) {
       const contagem = document.getElementById('contagem');
-      contagem.textContent += ' (mostrando os primeiros ' + LIMITE_RESULTADOS + ' — refine a busca para ver mais)';
+      contagem.textContent += ' (mostrando os primeiros ' + LIMITE_RESULTADOS + ' de ' + todosEncontrados.length + ' — refine a busca para ver mais)';
     }
   }
 
