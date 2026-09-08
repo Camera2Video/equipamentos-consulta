@@ -71,7 +71,7 @@
 
   .campos-busca {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     gap: 12px;
     margin-bottom: 28px;
   }
@@ -237,6 +237,13 @@
       </svg>
       <input type="text" id="buscaEquipamento" placeholder="Buscar por Descrição do equipamento…" autocomplete="off">
     </div>
+    <div class="search-wrap">
+      <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="8"></circle>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+      </svg>
+      <input type="text" id="buscaGrupo" placeholder="Buscar por Grupo…" autocomplete="off">
+    </div>
   </div>
   <p class="contagem" id="contagem"></p>
   <div id="lista"></div>
@@ -303,7 +310,8 @@
       registro: reg,
       patrimonio: normalizar(expandirNumeros(reg.Patrimonio || '')),
       ns: normalizar(expandirNumeros(reg.NS || '')),
-      equipamento: normalizar(reg.Equipamento || '')
+      equipamento: normalizar(reg.Equipamento || ''),
+      grupo: normalizar(reg.Grupo || '')
     }));
   }
 
@@ -407,8 +415,9 @@
     const termosPat = extrairTermos(document.getElementById('buscaPatrimonio').value);
     const termosNS = extrairTermos(document.getElementById('buscaNS').value);
     const termosEquip = extrairTermos(document.getElementById('buscaEquipamento').value);
+    const termosGrupo = extrairTermos(document.getElementById('buscaGrupo').value);
 
-    if (termosPat.length === 0 && termosNS.length === 0 && termosEquip.length === 0) {
+    if (termosPat.length === 0 && termosNS.length === 0 && termosEquip.length === 0 && termosGrupo.length === 0) {
       mostrarEstadoInicial();
       return;
     }
@@ -419,8 +428,9 @@
       const bateuPat = termosPat.length === 0 || termosPat.every(t => item.patrimonio.includes(t));
       const bateuNS = termosNS.length === 0 || termosNS.every(t => item.ns.includes(t));
       const bateuEquip = termosEquip.length === 0 || termosEquip.every(t => item.equipamento.includes(t));
+      const bateuGrupo = termosGrupo.length === 0 || termosGrupo.every(t => item.grupo.includes(t));
 
-      if (bateuPat && bateuNS && bateuEquip) {
+      if (bateuPat && bateuNS && bateuEquip && bateuGrupo) {
         encontrados.push(item.registro);
         if (encontrados.length >= LIMITE_RESULTADOS) break;
       }
@@ -437,6 +447,7 @@
   document.getElementById('buscaPatrimonio').addEventListener('input', executarBusca);
   document.getElementById('buscaNS').addEventListener('input', executarBusca);
   document.getElementById('buscaEquipamento').addEventListener('input', executarBusca);
+  document.getElementById('buscaGrupo').addEventListener('input', executarBusca);
 
   carregarDados();
 </script>
