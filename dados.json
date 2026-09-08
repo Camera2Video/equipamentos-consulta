@@ -1303,7 +1303,7 @@
   {"id_item": "306", "Equipamento": "CAMERA SONY HXC  100", "Patrimonio": "003409", "NS": "10525", "Grupo": "APOIO SNG4 (ATEGO)", "Observacoes": ""},
   {"id_item": "1608", "Equipamento": "REGUA DE MONITOR TVLOGIC PRM  434  A", "Patrimonio": "003410", "NS": "434CT20013", "Grupo": "INATIVO", "Observacoes": "MONITOR 3 E 4 NÃO FUNCIONA\r\nMG"},
   {"id_item": "1561", "Equipamento": "RECEPTOR LECTROSONICS IFB R  1  A", "Patrimonio": "003411", "NS": "20153", "Grupo": "APOIO SNG2 (VW)", "Observacoes": ""},
-  {"id_item": "1561", "Equipamento": "RECEPTOR LECTROSONICS IFB R  1  A", "Patrimonio": "003412", "NS": "20151", "Grupo": "PENDENTES ATEGO", "Observacoes": ""},
+  {"id_item": "1561", "Equipamento": "RECEPTOR LECTROSONICS IFB R  1  A", "Patrimonio": "003412", "NS": "20151", "Grupo": "APOIO SNG4 (ATEGO)", "Observacoes": ""},
   {"id_item": "1464", "Equipamento": "PAINEL DE CONTROLE C/ CONECTOR DE MIC MA  704", "Patrimonio": "003415", "NS": "514300", "Grupo": "SNG2", "Observacoes": ""},
   {"id_item": "1793", "Equipamento": "SWITCHER BOARD CLEAR COM SB  704", "Patrimonio": "003416", "NS": "614300", "Grupo": "SNG2", "Observacoes": ""},
   {"id_item": "1608", "Equipamento": "REGUA DE MONITOR TVLOGIC PRM  434  A", "Patrimonio": "003417", "NS": "434CT200184", "Grupo": "APOIO SNG2 (VW)", "Observacoes": "PARTE OPERAÇÃO DE VÍDEO"},
