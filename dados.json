@@ -7136,7 +7136,7 @@
   {"id_item": "2106", "Equipamento": "REMOTE NEOID PTZ BROADCAST", "Patrimonio": "012089", "NS": "ID45250725194", "Grupo": "ALERJ", "Observacoes": ""},
   {"id_item": "1109", "Equipamento": "MESA DE AUDIO YAMAHA DM  3  DIGITAL DANTE", "Patrimonio": "012090", "NS": "UGGJ01270", "Grupo": "SALA JORGINHO", "Observacoes": "NA SALA DO JORGINHO"},
   {"id_item": "1109", "Equipamento": "MESA DE AUDIO YAMAHA DM  3  DIGITAL DANTE", "Patrimonio": "012091", "NS": "UGGJ01443", "Grupo": "SALA JORGINHO", "Observacoes": "NA SALA DO JORGINHO"},
-  {"id_item": "1425", "Equipamento": "MULTIVIEWER DECIMATOR DMON  16  SL", "Patrimonio": "012092", "NS": "VPB05196", "Grupo": "SALA JORGINHO", "Observacoes": "NA SALA DO JORGINHO"},
+  {"id_item": "1425", "Equipamento": "MULTIVIEWER DECIMATOR DMON  16  SL", "Patrimonio": "012092", "NS": "VPB05196", "Grupo": "5992", "Observacoes": "NA SALA DO JORGINHO"},
   {"id_item": "420", "Equipamento": "CARTAO DE MEMORIA SONY SXS  1   64  GB", "Patrimonio": "012093", "NS": "390210", "Grupo": "ENG PRATA ESPN RIO", "Observacoes": "ENTREGUE AO GUI"},
   {"id_item": "420", "Equipamento": "CARTAO DE MEMORIA SONY SXS  1   64  GB", "Patrimonio": "012094", "NS": "490210", "Grupo": "ENG DOURADA (BY3) ESPN RIO", "Observacoes": ""},
   {"id_item": "420", "Equipamento": "CARTAO DE MEMORIA SONY SXS  1   64  GB", "Patrimonio": "012095", "NS": "590210", "Grupo": "ENG DOURADA (BY3) ESPN RIO", "Observacoes": ""},
