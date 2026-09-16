@@ -157,6 +157,19 @@
     white-space: normal;
   }
 
+  .selo-locado {
+    display: inline-block;
+    margin-left: 8px;
+    padding: 2px 8px;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    vertical-align: middle;
+  }
+
   .indice {
     font-family: var(--mono);
     font-size: 12px;
@@ -379,12 +392,24 @@
       const chaves = ORDEM_CAMPOS.filter(c => c in registro);
       const camposHtml = chaves
         .filter(chave => chave !== CAMPO_LARGO)
-        .map(chave => `
+        .map(chave => {
+          if (chave === 'Grupo') {
+            const temCliente = registro.Cliente && registro.Cliente.trim().length > 0;
+            const selo = temCliente ? `<span class="selo-locado">Locado: ${registro.Cliente}</span>` : '';
+            return `
+        <div class="campo">
+          <span class="rotulo">${chave}</span>
+          <span class="valor">${registro[chave] || '—'}${selo}</span>
+        </div>
+      `;
+          }
+          return `
         <div class="campo">
           <span class="rotulo">${chave}</span>
           <span class="valor">${registro[chave] || '—'}</span>
         </div>
-      `).join('');
+      `;
+        }).join('');
 
       const temObs = registro[CAMPO_LARGO] && registro[CAMPO_LARGO].trim().length > 0;
       const obsHtml = temObs ? `
