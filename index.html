@@ -309,6 +309,7 @@
     indiceBusca = comQtd.map(reg => ({
       registro: reg,
       patrimonio: normalizar(expandirNumeros(reg.Patrimonio || '')),
+      patrimonioExato: normalizar(reg.Patrimonio || '').replace(/^0+(?=\d)/, ''),
       ns: normalizar(expandirNumeros(reg.NS || '')),
       equipamento: normalizar(reg.Equipamento || ''),
       grupo: normalizar(reg.Grupo || '')
@@ -427,7 +428,9 @@
     const todosEncontrados = [];
     for (let i = 0; i < indiceBusca.length; i++) {
       const item = indiceBusca[i];
-      const bateuPat = termosPat.length === 0 || termosPat.every(t => item.patrimonio.includes(t));
+      // Patrimônio usa comparação EXATA (não "contém"), já que é um
+      // identificador único — evita que "31" bata em "310000", "23145" etc.
+      const bateuPat = termosPat.length === 0 || termosPat.some(t => item.patrimonioExato === t);
       const bateuNS = termosNS.length === 0 || termosNS.every(t => item.ns.includes(t));
       const bateuEquip = termosEquip.length === 0 || termosEquip.every(t => item.equipamento.includes(t));
       const bateuGrupo = termosGrupo.length === 0 || termosGrupo.every(t => item.grupo.includes(t));
