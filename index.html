@@ -468,6 +468,7 @@
     // Ordenação conforme o campo usado na busca:
     // Patrimônio -> decrescente por número (12121 aparece antes de 121)
     // NS ou Descrição -> alfabética por Grupo
+    // Só Grupo -> alfabética por Equipamento
     if (termosPat.length > 0) {
       todosEncontrados.sort((a, b) => {
         const na = parseInt(String(a.Patrimonio || '').replace(/^0+(?=\d)/, ''), 10) || 0;
@@ -477,6 +478,10 @@
     } else if (termosNS.length > 0 || termosEquip.length > 0) {
       todosEncontrados.sort((a, b) =>
         String(a.Grupo || '').localeCompare(String(b.Grupo || ''), 'pt-BR')
+      );
+    } else if (termosGrupo.length > 0) {
+      todosEncontrados.sort((a, b) =>
+        String(a.Equipamento || '').localeCompare(String(b.Equipamento || ''), 'pt-BR')
       );
     }
 
