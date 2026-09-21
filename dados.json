@@ -2468,7 +2468,7 @@
   {"id_item": "1814", "Equipamento": "TECLADO CHERRY G  84   4100", "Patrimonio": "006068", "NS": "1090688", "Grupo": "SNG2", "Cliente": "", "Observacoes": ""},
   {"id_item": "1938", "Equipamento": "CABECA SACHTLER VIDEO  18  SB S  1", "Patrimonio": "006070", "NS": "1810 J147568", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "", "Observacoes": ""},
   {"id_item": "397", "Equipamento": "CARREGADOR DE BATERIAS VL  2  X", "Patrimonio": "006071", "NS": "VCXB02N0077A", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
-  {"id_item": "1129", "Equipamento": "MICROCAMERA MARSHALL CV  502  WPMB", "Patrimonio": "006072", "NS": "151326037A0125", "Grupo": "LOCAÇÃO", "Cliente": "CAMERA2", "Observacoes": "ERA DO VW, CHICO DEIXOU NA LOCAÇÃO - ESCRITO EM 07/01/26"},
+  {"id_item": "1129", "Equipamento": "MICROCAMERA MARSHALL CV  502  WPMB", "Patrimonio": "006072", "NS": "151326037A0125", "Grupo": "APOIO SNG2 (VW)", "Cliente": "CAMERA2", "Observacoes": "ERA DO VW, CHICO DEIXOU NA LOCAÇÃO - ESCRITO EM 07/01/26"},
   {"id_item": "1605", "Equipamento": "REGUA DE AC  12  POSICOES", "Patrimonio": "006073", "NS": "730600", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "1605", "Equipamento": "REGUA DE AC  12  POSICOES", "Patrimonio": "006074", "NS": "470600", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "1179", "Equipamento": "MICROFONE DIRECIONAL SENNHEISER MKH  70", "Patrimonio": "006075", "NS": "22293", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "", "Observacoes": ""},
