@@ -277,7 +277,7 @@
   {"id_item": "206", "Equipamento": "BELTPACK CLEAR COM RS  601", "Patrimonio": "000540", "NS": "C0106F0972", "Grupo": "SALA PAULINHO", "Cliente": "", "Observacoes": "EM USO NA MANUTENÇÃO - ESCRITO EM 07/04/26"},
   {"id_item": "209", "Equipamento": "BELTPACK CLEAR COM RS  601", "Patrimonio": "000541", "NS": "C0106G0860", "Grupo": "INATIVO", "Cliente": "", "Observacoes": ""},
   {"id_item": "206", "Equipamento": "BELTPACK CLEAR COM RS  601", "Patrimonio": "000542", "NS": "C0106F0853", "Grupo": "PENDENTES SNG4", "Cliente": "CAMERA2", "Observacoes": ""},
-  {"id_item": "852", "Equipamento": "HEADSET CLEAR COM CC  95", "Patrimonio": "000543", "NS": "HS543", "Grupo": "PENDENTES ACCELO", "Cliente": "CAMERA2", "Observacoes": "APOIO 5992\r\nMANUTENÇÃO PARA REPARO DO MICROIFONE 02/04/24 LIBERADO 09/04/2024\r\nMANUTENÇÃO 21/05/24 LIBERADO 11/07/2024\r\nMANUTENÇÃO 06/02/25"},
+  {"id_item": "852", "Equipamento": "HEADSET CLEAR COM CC  95", "Patrimonio": "000543", "NS": "HS543", "Grupo": "APOIO 5992 (ACCELO)", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": "APOIO 5992\r\nMANUTENÇÃO PARA REPARO DO MICROIFONE 02/04/24 LIBERADO 09/04/2024\r\nMANUTENÇÃO 21/05/24 LIBERADO 11/07/2024\r\nMANUTENÇÃO 06/02/25"},
   {"id_item": "1512", "Equipamento": "PEAK METER BRIDGE DM  1000  YAMAHA", "Patrimonio": "000544", "NS": "YAMP01047", "Grupo": "SNG2", "Cliente": "", "Observacoes": ""},
   {"id_item": "1508", "Equipamento": "PATCHBAY DE VIDEO CANARE DV  5  A W", "Patrimonio": "000545", "NS": "PA448", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": "NO RACK 2 DA LOCAÇÃO EM 18/11/25"},
   {"id_item": "1937", "Equipamento": "TRIPE SACHTLER VIDEO  18  SB", "Patrimonio": "000546", "NS": "18SB2567", "Grupo": "ENG ESPN SP", "Cliente": "", "Observacoes": ""},
