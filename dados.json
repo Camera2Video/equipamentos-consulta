@@ -5564,7 +5564,7 @@
   {"id_item": "1582", "Equipamento": "(AXIENT) RECEPTOR WIRELESS DIGITAL DOIS CANAIS SHURE AD  4  D", "Patrimonio": "011066", "NS": "2DI11162926", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": "Faixa de sintonia de até 184 MHz"},
   {"id_item": "1531", "Equipamento": "(AXIENT) PONTO DE ACESSO SHOWLINK SHURE AD  610", "Patrimonio": "011067", "NS": "3DJ17498525", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": "LIGADO AO RECEPTOR DO PAT. 011066"},
   {"id_item": "403", "Equipamento": "(AXIENT) CARREGADOR SHURE SBC  240", "Patrimonio": "011068", "NS": "2DH26955262", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
-  {"id_item": "1876", "Equipamento": "(AXIENT) TRANSMISSOR PORTATIL SHURE ADX  1", "Patrimonio": "011069", "NS": "2DJ16405003", "Grupo": "APOIO SNG2 (VW)", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": "LIGADO AO RECEPTOR DO PAT. 011066"},
+  {"id_item": "1876", "Equipamento": "(AXIENT) TRANSMISSOR PORTATIL SHURE ADX  1", "Patrimonio": "011069", "NS": "2DJ16405003", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": "LIGADO AO RECEPTOR DO PAT. 011066"},
   {"id_item": "1876", "Equipamento": "(AXIENT) TRANSMISSOR PORTATIL SHURE ADX  1", "Patrimonio": "011070", "NS": "SDJ16404886", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": "LIGADO AO RECEPTOR DO PAT. 011066"},
   {"id_item": "77", "Equipamento": "(AXIENT) ANTENA SHURE", "Patrimonio": "011071", "NS": "170110", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "", "Observacoes": "LIGADO AO RECEPTOR DO PAT. 011060"},
   {"id_item": "77", "Equipamento": "(AXIENT) ANTENA SHURE", "Patrimonio": "011072", "NS": "270110", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "", "Observacoes": "LIGADO AO RECEPTOR DO PAT. 011066"},
