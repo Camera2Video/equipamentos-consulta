@@ -14,6 +14,8 @@
     --accent-soft: #E6F1FB;
     --danger: #C0392B;
     --danger-soft: #FBEAE8;
+    --warn: #9A6A00;
+    --warn-soft: #FDF3D9;
     --card: #FFFFFF;
     --mono: 'Consolas', 'Courier New', monospace;
   }
@@ -182,6 +184,19 @@
     border-radius: 999px;
     background: var(--danger-soft);
     color: var(--danger);
+    vertical-align: middle;
+  }
+
+  .selo-emprestado {
+    display: inline-block;
+    margin-left: 8px;
+    padding: 2px 8px;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    border-radius: 999px;
+    background: var(--warn-soft);
+    color: var(--warn);
     vertical-align: middle;
   }
 
@@ -416,9 +431,18 @@
               .trim()
               .toUpperCase();
             const clientesManutencao = ['MANUTENCAO CAMERA2', 'MANUTENCAO EXTERNA'];
-            const ehManutencao = temCliente && clientesManutencao.includes(normalizar(registro.Cliente));
+            const clientesEmprestado = [
+              'ENG ESPN DOURADA (BY3)', 'ENG ESPN LARANJA (BY2)', 'ENG ESPN AMARELA (BY1)',
+              'ENG ESPN AZUL', 'ENG ESPN PRATA', 'ENG ESPN VERDE', 'ENG ESPN VERMELHA',
+              'ENG ESPN SP', 'ACCELO', 'ATEGO', 'VW', '5992', 'SNG4', 'SNG3', 'SNG2', 'SNG1'
+            ];
+            const clienteNormalizado = temCliente ? normalizar(registro.Cliente) : '';
+            const ehManutencao = temCliente && clientesManutencao.includes(clienteNormalizado);
+            const ehEmprestado = temCliente && !ehManutencao && clientesEmprestado.includes(clienteNormalizado);
             const selo = !temCliente ? '' : ehManutencao
               ? `<span class="selo-manutencao">Em Manutenção: ${registro.Cliente}</span>`
+              : ehEmprestado
+              ? `<span class="selo-emprestado">Emprestado: ${registro.Cliente}</span>`
               : `<span class="selo-locado">Locado: ${registro.Cliente}</span>`;
             return `
         <div class="campo">
