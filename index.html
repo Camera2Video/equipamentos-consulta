@@ -253,7 +253,7 @@
 <header>
   <p class="eyebrow">Consulta externa</p>
   <h1>Equipamentos</h1>
-  <p class="subtitle">Pesquise por equipamento, patrimônio, NS ou grupo/local. Os dados são atualizados periodicamente a partir da base do Câmera2.</p>
+  <p class="subtitle">Pesquise por equipamento, patrimônio, NS ou grupo/local. Os dados são atualizados periodicamente a partir da base do sistema Câmera2.</p>
   <p class="updated" id="atualizadoEm">Última atualização: —</p>
 </header>
 
@@ -383,7 +383,7 @@
     const container = document.getElementById('lista');
     const contagem = document.getElementById('contagem');
     contagem.textContent = '';
-    container.innerHTML = `<div class="vazio">Preencha um ou mais campos para buscar entre os ${dados.length.toLocaleString('pt-BR')} equipamentos.</div>`;
+    container.innerHTML = `<div class="vazio">Preencha um (ou mais campos para refinar sua busca).</div>`;
   }
 
   const DATA_GERACAO = '26/08/2026 23:06'; // snapshot embutido nesta cópia do arquivo
