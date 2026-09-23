@@ -1261,7 +1261,7 @@
   {"id_item": "306", "Equipamento": "CAMERA SONY HXC  100", "Patrimonio": "003292", "NS": "11329", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": "COM O CHICO------------------------\r\nESCRITO EM: 27/05/2026 15:47"},
   {"id_item": "1011", "Equipamento": "LENTE CARL ZEISS  50  MM F  1  .  4", "Patrimonio": "003296", "NS": "LT3296", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "142", "Equipamento": "BATERIA ENERGIA BP L  130", "Patrimonio": "003299", "NS": "BP32270851", "Grupo": "INATIVO", "Cliente": "", "Observacoes": "BATERIA DESCARTADA POR NÃO PEGAR MAIS GARGA."},
-  {"id_item": "2024", "Equipamento": "VIEWFINDER SONY HDVF  20  A", "Patrimonio": "003301", "NS": "1010077", "Grupo": "APOIO 5992 (ACCELO)", "Cliente": "", "Observacoes": ""},
+  {"id_item": "2024", "Equipamento": "VIEWFINDER SONY HDVF  20  A", "Patrimonio": "003301", "NS": "1010077", "Grupo": "APOIO 5992 (ACCELO)", "Cliente": "ATEGO", "Observacoes": ""},
   {"id_item": "996", "Equipamento": "LENTE CANON  70   200  MM F  2  .  8", "Patrimonio": "003303", "NS": "7860009020", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "997", "Equipamento": "LENTE CANON EF  24   70  MM F  2  .  8", "Patrimonio": "003304", "NS": "3685423", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "848", "Equipamento": "HEADPHONE SONY MDR  7506", "Patrimonio": "003309", "NS": "HD6333", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
