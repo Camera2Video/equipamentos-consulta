@@ -12,6 +12,8 @@
     --line: #E6E0C4;
     --accent: #3B6EA5;
     --accent-soft: #E6F1FB;
+    --danger: #C0392B;
+    --danger-soft: #FBEAE8;
     --card: #FFFFFF;
     --mono: 'Consolas', 'Courier New', monospace;
   }
@@ -167,6 +169,19 @@
     border-radius: 999px;
     background: var(--accent-soft);
     color: var(--accent);
+    vertical-align: middle;
+  }
+
+  .selo-manutencao {
+    display: inline-block;
+    margin-left: 8px;
+    padding: 2px 8px;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    border-radius: 999px;
+    background: var(--danger-soft);
+    color: var(--danger);
     vertical-align: middle;
   }
 
@@ -395,7 +410,16 @@
         .map(chave => {
           if (chave === 'Grupo') {
             const temCliente = registro.Cliente && registro.Cliente.trim().length > 0;
-            const selo = temCliente ? `<span class="selo-locado">Locado: ${registro.Cliente}</span>` : '';
+            const normalizar = (s) => s
+              .normalize('NFD')
+              .replace(/[\u0300-\u036f]/g, '')
+              .trim()
+              .toUpperCase();
+            const clientesManutencao = ['MANUTENCAO CAMERA2', 'MANUTENCAO EXTERNA'];
+            const ehManutencao = temCliente && clientesManutencao.includes(normalizar(registro.Cliente));
+            const selo = !temCliente ? '' : ehManutencao
+              ? `<span class="selo-manutencao">Em Manutenção: ${registro.Cliente}</span>`
+              : `<span class="selo-locado">Locado: ${registro.Cliente}</span>`;
             return `
         <div class="campo">
           <span class="rotulo">${chave}</span>
