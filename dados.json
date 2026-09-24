@@ -3244,7 +3244,7 @@
   {"id_item": "326", "Equipamento": "CARREGADOR BATERIA CAMERA  2  UNIVERSAL  8   4", "Patrimonio": "006899", "NS": "6899", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1475", "Equipamento": "PAINEL DE LED BICOLOR  6  MCI  30  X  30", "Patrimonio": "006901", "NS": "BI1069", "Grupo": "INATIVO", "Cliente": "", "Observacoes": "FOI FURTADO COM O GABRIELLI NO DIA 30/08/24"},
   {"id_item": "1485", "Equipamento": "PAINEL DE LED MCI  30  X  30", "Patrimonio": "006902", "NS": "BI2096", "Grupo": "PENDENTES VW", "Cliente": "CAMERA2", "Observacoes": ""},
-  {"id_item": "1800", "Equipamento": "SWITCHER FOR.A HVS  110", "Patrimonio": "006903", "NS": "15110580", "Grupo": "5992", "Cliente": "", "Observacoes": ""},
+  {"id_item": "1800", "Equipamento": "SWITCHER FOR.A HVS  110", "Patrimonio": "006903", "NS": "15110580", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "707", "Equipamento": "ENCODER TANDBERG ES  740", "Patrimonio": "006904", "NS": "TB3844", "Grupo": "INATIVO", "Cliente": "", "Observacoes": ""},
   {"id_item": "2006", "Equipamento": "VIEWFINDER COM MONITOR LCD SONY PXW FS  7", "Patrimonio": "006905", "NS": "VF1097", "Grupo": "LOCAÇÃO", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
   {"id_item": "551", "Equipamento": "CONTROLE ZOOM SONY PXW FS  7", "Patrimonio": "006906", "NS": "ZM1096", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
