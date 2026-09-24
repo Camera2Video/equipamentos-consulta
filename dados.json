@@ -6334,7 +6334,7 @@
   {"id_item": "1456", "Equipamento": "PAINEL DE COMUNICACAO CLEAR COM V  12  LD", "Patrimonio": "011286", "NS": "0650DE08", "Grupo": "5992", "Cliente": "", "Observacoes": ""},
   {"id_item": "1456", "Equipamento": "PAINEL DE COMUNICACAO CLEAR COM V  12  LD", "Patrimonio": "011287", "NS": "0648DE08", "Grupo": "5992", "Cliente": "", "Observacoes": ""},
   {"id_item": "850", "Equipamento": "HEADSET CLEAR COM CC  300", "Patrimonio": "011288", "NS": "882110", "Grupo": "5992", "Cliente": "TV GLOBO", "Observacoes": ""},
-  {"id_item": "850", "Equipamento": "HEADSET CLEAR COM CC  300", "Patrimonio": "011289", "NS": "982110", "Grupo": "5992", "Cliente": "", "Observacoes": ""},
+  {"id_item": "850", "Equipamento": "HEADSET CLEAR COM CC  300", "Patrimonio": "011289", "NS": "982110", "Grupo": "5992", "Cliente": "TV GLOBO", "Observacoes": ""},
   {"id_item": "850", "Equipamento": "HEADSET CLEAR COM CC  300", "Patrimonio": "011290", "NS": "092110", "Grupo": "5992", "Cliente": "", "Observacoes": ""},
   {"id_item": "850", "Equipamento": "HEADSET CLEAR COM CC  300", "Patrimonio": "011291", "NS": "192110", "Grupo": "APOIO 5992 (ACCELO)", "Cliente": "", "Observacoes": ""},
   {"id_item": "850", "Equipamento": "HEADSET CLEAR COM CC  300", "Patrimonio": "011292", "NS": "292110", "Grupo": "5992", "Cliente": "", "Observacoes": ""},
