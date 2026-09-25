@@ -1221,7 +1221,7 @@
   {"id_item": "933", "Equipamento": "KIT ARRI COM FRESNEL", "Patrimonio": "003214", "NS": "ML352", "Grupo": "SEM GRUPO", "Cliente": "", "Observacoes": "*** 1 FRESNEL DE 300***\r\nPAT: 004839\r\n***3 FRESNEL DE 650***\r\nPAT: 009362//004952//009361"},
   {"id_item": "1571", "Equipamento": "RECEPTOR SENNHEISER EW  100  G 3", "Patrimonio": "003216", "NS": "4381020781", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": "RETORNADO DE ANGRA, DE FORMA AVARIADA------------------------\r\nESCRITO EM: 26/06/2026 14:20"},
   {"id_item": "1571", "Equipamento": "RECEPTOR SENNHEISER EM  500  G  3", "Patrimonio": "003218", "NS": "4381020787", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
-  {"id_item": "1941", "Equipamento": "TRIPE SACHTLER VIDEO  25  HD", "Patrimonio": "003219", "NS": "25P04982", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
+  {"id_item": "1941", "Equipamento": "TRIPE SACHTLER VIDEO  25", "Patrimonio": "003219", "NS": "25P04982", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
   {"id_item": "1571", "Equipamento": "RECEPTOR SENNHEISER EM  500  G  3", "Patrimonio": "003220", "NS": "4390005605", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "1893", "Equipamento": "TRANSMISSOR SONY COUPLER CCA  5", "Patrimonio": "003221", "NS": "122300", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1933", "Equipamento": "TRIPE SACHTLER VIDEO  18  S  1", "Patrimonio": "003223", "NS": "1810G111995", "Grupo": "ENG ESPN SP", "Cliente": "", "Observacoes": ""},
