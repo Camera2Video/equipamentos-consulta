@@ -4662,7 +4662,7 @@
   {"id_item": "1359", "Equipamento": "MONITOR PANASONIC BT LH  1700  WP", "Patrimonio": "009297", "NS": "L7TWB7342", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "", "Observacoes": ""},
   {"id_item": "1361", "Equipamento": "MONITOR PANASONIC BT LH  1760  P", "Patrimonio": "009298", "NS": "AOTWA1436", "Grupo": "PENDENTES ATEGO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1360", "Equipamento": "MONITOR PANASONIC BT LH  1710  P", "Patrimonio": "009299", "NS": "F3TWA0121", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
-  {"id_item": "891", "Equipamento": "INTERFACE DE AUDIO  9900   71265  XX BLACKMAGIC", "Patrimonio": "009300", "NS": "3935414", "Grupo": "ALERJ", "Cliente": "CAMERA2", "Observacoes": ""},
+  {"id_item": "891", "Equipamento": "INTERFACE DE AUDIO  9900   71265  XX BLACKMAGIC", "Patrimonio": "009300", "NS": "3935414", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "891", "Equipamento": "INTERFACE DE AUDIO  9900   71265  XX BLACKMAGIC", "Patrimonio": "009301", "NS": "3936213", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "891", "Equipamento": "INTERFACE DE AUDIO  9900   71265  XX BLACKMAGIC", "Patrimonio": "009302", "NS": "3936298", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "1361", "Equipamento": "MONITOR PANASONIC BT LH  1760  P", "Patrimonio": "009303", "NS": "303900", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
