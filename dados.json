@@ -5439,7 +5439,7 @@
   {"id_item": "1738", "Equipamento": "MATRIZ KNUP SUPER HUB USB  4  PORTAS", "Patrimonio": "010797", "NS": "", "Grupo": "5992", "Cliente": "", "Observacoes": ""},
   {"id_item": "1738", "Equipamento": "MATRIZ KNUP SUPER HUB USB  4  PORTAS", "Patrimonio": "010798", "NS": "", "Grupo": "5992", "Cliente": "", "Observacoes": ""},
   {"id_item": "485", "Equipamento": "CHAVEADOR KVM HDMI & SUB", "Patrimonio": "010799", "NS": "", "Grupo": "PENDENTES 5992", "Cliente": "", "Observacoes": ""},
-  {"id_item": "1139", "Equipamento": "MICROFONE AMBIENTE SONY", "Patrimonio": "010800", "NS": "", "Grupo": "APOIO FORD", "Cliente": "", "Observacoes": "TROCADO COM O RATINHO PELOS NOVOS, QUE FORAM PARA O ACCELO (5992). ESTAVA NO ACCELO APESAR DE MARCADO COMO LOCAÇÃO------------------------------------\r\nESCRITO EM 06/05/2026 13:38"},
+  {"id_item": "1139", "Equipamento": "MICROFONE AMBIENTE SONY", "Patrimonio": "010800", "NS": "", "Grupo": "APOIO FORD", "Cliente": "ACCELO", "Observacoes": "TROCADO COM O RATINHO PELOS NOVOS, QUE FORAM PARA O ACCELO (5992). ESTAVA NO ACCELO APESAR DE MARCADO COMO LOCAÇÃO------------------------------------\r\nESCRITO EM 06/05/2026 13:38"},
   {"id_item": "1853", "Equipamento": "TESTADOR DE CABOS RJ  45  E USB", "Patrimonio": "010801", "NS": "", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1933", "Equipamento": "TRIPE SACHTLER VIDEO  18  S  1", "Patrimonio": "010802", "NS": "1811C171497", "Grupo": "APOIO 5992 (ACCELO)", "Cliente": "", "Observacoes": ""},
   {"id_item": "1091", "Equipamento": "MATRIZ BLACKMAGIC SMART CONTROL VIDEOHUB", "Patrimonio": "010803", "NS": "10421532", "Grupo": "5992", "Cliente": "", "Observacoes": ""},
