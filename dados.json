@@ -4125,7 +4125,7 @@
   {"id_item": "1602", "Equipamento": "REGUA DE AC  08  POSICOES", "Patrimonio": "008584", "NS": "485800", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1855", "Equipamento": "TESTADOR DE FIBRA E RJ  45", "Patrimonio": "008585", "NS": "585800", "Grupo": "ALERJ", "Cliente": "", "Observacoes": "***ALERJ*** JOÃO VITOR\r\nTRANSMISSOR NF-8505\r\nRECEPTOR NF-8508\r\nOBS: O MESMO PATRIMÔNIO CORRESPONDE AO TX E RX"},
   {"id_item": "461", "Equipamento": "CARTAO SSD CRUCIAL MX  500   2000  GB", "Patrimonio": "008586", "NS": "2238E668156A", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
-  {"id_item": "700", "Equipamento": "ENCODER NTT ELETRONICS HC  11000", "Patrimonio": "008587", "NS": "C20042304", "Grupo": "SNG2", "Cliente": "", "Observacoes": ""},
+  {"id_item": "700", "Equipamento": "ENCODER NTT ELETRONICS HC  11000", "Patrimonio": "008587", "NS": "C20042304", "Grupo": "SNG3", "Cliente": "", "Observacoes": ""},
   {"id_item": "1818", "Equipamento": "TECLADO MICROSOFT WIRED 600 DESKTOP V  2  .  0", "Patrimonio": "008588", "NS": "0065820150613", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "122", "Equipamento": "BASTIDOR OPEN GEAR BLACKMAGIC  3  .  0", "Patrimonio": "008589", "NS": "985800", "Grupo": "SNG2", "Cliente": "", "Observacoes": "ENTREGUE PELO MARCELINHO AO YUAN------------------------\r\nESCRITO EM: 26/05/2026 16:20\r\nNO RACK 2 DA LOCAÇÃO EM 18/11/25"},
   {"id_item": "24", "Equipamento": "ADAPTADOR DE BATERIA SMALLRIG", "Patrimonio": "008590", "NS": "095800", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
