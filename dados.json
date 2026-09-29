@@ -722,7 +722,7 @@
   {"id_item": "453", "Equipamento": "CARTAO SDXC EXTREMO PRO  256  GB", "Patrimonio": "001014", "NS": "410100", "Grupo": "ALERJ", "Cliente": "", "Observacoes": "Para uso Blackmagic Hyperdeck Studio Mini"},
   {"id_item": "453", "Equipamento": "CARTAO SDXC EXTREMO PRO  256  GB", "Patrimonio": "001015", "NS": "510100", "Grupo": "ALERJ", "Cliente": "", "Observacoes": "Para uso Blackmagic Hyperdeck Studio Mini"},
   {"id_item": "453", "Equipamento": "CARTAO SDXC EXTREMO PRO  256  GB", "Patrimonio": "001016", "NS": "610100", "Grupo": "ALERJ", "Cliente": "", "Observacoes": "Para uso Blackmagic Hyperdeck Studio Mini"},
-  {"id_item": "853", "Equipamento": "HEADSET CLEAR COM CC  400", "Patrimonio": "001017", "NS": "HD095", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": "APOIO VW\r\nMANUTENÇÃO 24/06/2024 LIBERADO 03/07/24\r\nMANUTENÇÃO 01/11/24 LIBERADO 04/11/24"},
+  {"id_item": "853", "Equipamento": "HEADSET CLEAR COM CC  400", "Patrimonio": "001017", "NS": "HD095", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "", "Observacoes": "APOIO VW\r\nMANUTENÇÃO 24/06/2024 LIBERADO 03/07/24\r\nMANUTENÇÃO 01/11/24 LIBERADO 04/11/24"},
   {"id_item": "453", "Equipamento": "CARTAO SDXC EXTREMO PRO  256  GB", "Patrimonio": "001018", "NS": "810100", "Grupo": "ALERJ", "Cliente": "", "Observacoes": "Para uso Blackmagic Hyperdeck Studio Mini"},
   {"id_item": "453", "Equipamento": "CARTAO SDXC EXTREMO PRO  256  GB", "Patrimonio": "001020", "NS": "020100", "Grupo": "ALERJ", "Cliente": "", "Observacoes": "Para uso Blackmagic Hyperdeck Studio Mini"},
   {"id_item": "1228", "Equipamento": "MIXER SOUNDCRAFT SPIRIT FX  16", "Patrimonio": "001021", "NS": "RW5628", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
