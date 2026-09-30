@@ -2826,7 +2826,7 @@
   {"id_item": "57", "Equipamento": "ROTEADOR EXTERNO PARA CHIP ELSYS AMPLIMAX EPRL 12", "Patrimonio": "006427", "NS": "11430090410", "Grupo": "PENDENTES SNG2", "Cliente": "", "Observacoes": ""},
   {"id_item": "625", "Equipamento": "DCU SONY MKS  2700", "Patrimonio": "006428", "NS": "12225", "Grupo": "INATIVO", "Cliente": "", "Observacoes": "NA SALA TÉCNICA - 17/11/25"},
   {"id_item": "1129", "Equipamento": "MICROCAMERA MARSHALL CV  502  WPMB", "Patrimonio": "006429", "NS": "151326039C0104", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
-  {"id_item": "1129", "Equipamento": "MICROCAMERA MARSHALL CV  502  WPMB", "Patrimonio": "006430", "NS": "151326039C0109", "Grupo": "APOIO SNG2 (VW)", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
+  {"id_item": "1129", "Equipamento": "MICROCAMERA MARSHALL CV  502  WPMB", "Patrimonio": "006430", "NS": "151326039C0109", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
   {"id_item": "1129", "Equipamento": "MICROCAMERA MARSHALL CV  502  WPMB", "Patrimonio": "006431", "NS": "151326039C0116", "Grupo": "APOIO 5992 (ACCELO)", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
   {"id_item": "1126", "Equipamento": "MICROCAMERA ALLIANCE HDCCTV", "Patrimonio": "006432", "NS": "MC6432", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "844", "Equipamento": "HEADPHONE SENNHEISER HD  26  PRO", "Patrimonio": "006433", "NS": "1108105975", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
