@@ -851,7 +851,7 @@
   {"id_item": "132", "Equipamento": "BATERIA CANON LP E  6", "Patrimonio": "001335", "NS": "BC207", "Grupo": "INATIVO", "Cliente": "", "Observacoes": ""},
   {"id_item": "129", "Equipamento": "BATERIA CAMERA  2  NP F  550", "Patrimonio": "001341", "NS": "9813", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "381", "Equipamento": "CARREGADOR DE BATERIA SWIT S  3602  F", "Patrimonio": "001344", "NS": "08-78005", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
-  {"id_item": "850", "Equipamento": "HEADSET CLEAR COM CC  300", "Patrimonio": "001345", "NS": "KM161", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "", "Observacoes": ""},
+  {"id_item": "850", "Equipamento": "HEADSET CLEAR COM CC  300", "Patrimonio": "001345", "NS": "KM161", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
   {"id_item": "1196", "Equipamento": "MICROFONE SENNHEISER MD  431  II", "Patrimonio": "001350", "NS": "34153", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
   {"id_item": "378", "Equipamento": "CARREGADOR DE BATERIA SONY AC VQH  10", "Patrimonio": "001354", "NS": "NSW22333", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "33", "Equipamento": "ADAPTADOR DE MONITOR AC  940  W", "Patrimonio": "001357", "NS": "3002980", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
