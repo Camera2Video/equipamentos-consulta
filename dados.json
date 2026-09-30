@@ -561,7 +561,7 @@
   {"id_item": "580", "Equipamento": "CONVERSOR BLACKMAGIC UPDOWNCROSS", "Patrimonio": "003853", "NS": "5074", "Grupo": "SNG2", "Cliente": "", "Observacoes": "ENTREGUE AO YUAN------------------------\r\nESCRITO EM: 13/08/2026 15:03"},
   {"id_item": "1571", "Equipamento": "RECEPTOR SENNHEISER EM  500  G  3", "Patrimonio": "003855", "NS": "4251017115", "Grupo": "ENG ESPN SP", "Cliente": "", "Observacoes": ""},
   {"id_item": "852", "Equipamento": "HEADSET CLEAR COM CC  95", "Patrimonio": "003857", "NS": "HD3506", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "", "Observacoes": ""},
-  {"id_item": "852", "Equipamento": "HEADSET CLEAR COM CC  95", "Patrimonio": "003858", "NS": "HD3507", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
+  {"id_item": "852", "Equipamento": "HEADSET CLEAR COM CC  95", "Patrimonio": "003858", "NS": "HD3507", "Grupo": "APOIO SNG2 (VW)", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
   {"id_item": "209", "Equipamento": "BELTPACK CLEAR COM RS  601", "Patrimonio": "003859", "NS": "C0111C3085", "Grupo": "SALA PAULINHO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1571", "Equipamento": "RECEPTOR SENNHEISER EM  500  G  3", "Patrimonio": "003862", "NS": "4201016296", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "1608", "Equipamento": "REGUA DE MONITOR TVLOGIC PRM  434  A", "Patrimonio": "003863", "NS": "434DX200086", "Grupo": "INATIVO", "Cliente": "", "Observacoes": "APENAS UMA TELA FUNCIONA E NÃO HÁ PEÇA PARA REPOSIÇÃO, NEM MESMO UM OUTRO QUE JÁ SEJA SUCATA, PARA COLHER PEÇAS. - NA SALA TÉCNICA - 17/11/25"},
