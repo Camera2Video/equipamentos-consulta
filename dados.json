@@ -2773,7 +2773,7 @@
   {"id_item": "2", "Equipamento": "3PLAY NEWTEK  3  PXD  425", "Patrimonio": "006366", "NS": "M8AF19519360950", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": "COM CONTROLE"},
   {"id_item": "1688", "Equipamento": "SPLITER HDMI  1  X  4", "Patrimonio": "006367", "NS": "676300", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "672", "Equipamento": "DISTRIBUIDOR USB KVM EXTENDER RX", "Patrimonio": "006368", "NS": "368006", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
-  {"id_item": "1897", "Equipamento": "TRANSMISSOR SONY WRT  822  B", "Patrimonio": "006369", "NS": "105540", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
+  {"id_item": "1897", "Equipamento": "TRANSMISSOR SONY WRT  822  B", "Patrimonio": "006369", "NS": "105540", "Grupo": "ENG ESPN SP", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
   {"id_item": "1186", "Equipamento": "MICROFONE JTS NX  6", "Patrimonio": "006370", "NS": "JTS80", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1196", "Equipamento": "MICROFONE SENNHEISER MD  431  II", "Patrimonio": "006371", "NS": "34065", "Grupo": "INATIVO", "Cliente": "", "Observacoes": "FOI FURTADO COM O GABRIELLI NO DIA 30/08/24"},
   {"id_item": "1320", "Equipamento": "MONITOR DE VIDEO WOHLER RM  2443  W HD", "Patrimonio": "006372", "NS": "RM2443WHD15010017", "Grupo": "SNG4", "Cliente": "", "Observacoes": ""},
