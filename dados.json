@@ -3321,7 +3321,7 @@
   {"id_item": "349", "Equipamento": "CARREGADOR DE BATERIA BEST BATTERY", "Patrimonio": "006962", "NS": "KIT03", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "349", "Equipamento": "CARREGADOR DE BATERIA BEST BATTERY", "Patrimonio": "006963", "NS": "KIT01", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "285", "Equipamento": "CAMERA PTZ PANASONIC AW HE  40  SKP", "Patrimonio": "006964", "NS": "F0TQJ0044", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
-  {"id_item": "871", "Equipamento": "HPA CPI OUTDOOR  750  W VZC  6967  V  7", "Patrimonio": "006965", "NS": "H13699A1", "Grupo": "SEM GRUPO", "Cliente": "", "Observacoes": ""},
+  {"id_item": "871", "Equipamento": "HPA CPI OUTDOOR  750  W VZC  6967  V  7", "Patrimonio": "006965", "NS": "H13699A1", "Grupo": "SALA TÉCNICA", "Cliente": "", "Observacoes": ""},
   {"id_item": "871", "Equipamento": "HPA CPI OUTDOOR  750  W VZC  6967  V  7", "Patrimonio": "006966", "NS": "H13698A1", "Grupo": "MANUTENCAO EXTERNA", "Cliente": "MANUTENCAO EXTERNA", "Observacoes": "NA STI (ESCRITO EM 18/11/25)"},
   {"id_item": "1791", "Equipamento": "SWITCHER BLACKMAGIC ATEM TELEVISION STUDIO PRO  4  K", "Patrimonio": "006967", "NS": "6679629", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "402", "Equipamento": "CARREGADOR RADIO MOTOROLA EP  450  S", "Patrimonio": "006968", "NS": "1131AN1", "Grupo": "PENDENTES VW", "Cliente": "", "Observacoes": ""},
