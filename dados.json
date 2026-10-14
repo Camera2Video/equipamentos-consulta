@@ -6123,7 +6123,7 @@
   {"id_item": "1530", "Equipamento": "PONTO DE ACESSO OMADA TP LINK AX  5400", "Patrimonio": "011017", "NS": "223C0H9002094", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1530", "Equipamento": "PONTO DE ACESSO OMADA TP LINK AX  5400", "Patrimonio": "011018", "NS": "223C0H9000407", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "816", "Equipamento": "HD EXTERNO PORTATIL SEAGATE  2  TB", "Patrimonio": "011019", "NS": "NABZTSSM", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
-  {"id_item": "815", "Equipamento": "HD EXTERNO PORTATIL SEAGATE  1  TB", "Patrimonio": "011020", "NS": "NABSACQ5", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
+  {"id_item": "815", "Equipamento": "HD EXTERNO PORTATIL SEAGATE  1  TB", "Patrimonio": "011020", "NS": "NABSACQ5", "Grupo": "SALA JORGINHO", "Cliente": "", "Observacoes": ""},
   {"id_item": "816", "Equipamento": "HD EXTERNO PORTATIL SEAGATE  2  TB", "Patrimonio": "011021", "NS": "NABZTQGQ", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": "NA ILHA DE EDIÇÃO - ESCRITO EM 06/01/26"},
   {"id_item": "815", "Equipamento": "HD EXTERNO PORTATIL SEAGATE  1  TB", "Patrimonio": "011022", "NS": "NABSABQP", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": "NA ILHA DE EDIÇÃO - ESCRITO EM 06/01/26"},
   {"id_item": "816", "Equipamento": "HD EXTERNO PORTATIL SEAGATE  2  TB", "Patrimonio": "011023", "NS": "NACC8QXD", "Grupo": "LOCAÇÃO", "Cliente": "CBF", "Observacoes": ""},
