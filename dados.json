@@ -144,7 +144,7 @@
   {"id_item": "305", "Equipamento": "CAMERA SONY HVR Z  1  N", "Patrimonio": "000097", "NS": "1415526", "Grupo": "INATIVO", "Cliente": "", "Observacoes": ""},
   {"id_item": "851", "Equipamento": "HEADSET CLEAR COM CC  300", "Patrimonio": "000102", "NS": "KM156", "Grupo": "PENDENTES VW", "Cliente": "", "Observacoes": ""},
   {"id_item": "959", "Equipamento": "LEITOR AJA HD DOCK STAGE", "Patrimonio": "000103", "NS": "K0086504", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ">>NA LOCAÇÃO<<\r\n...VISTO EM 01/11/24_MG"},
-  {"id_item": "852", "Equipamento": "HEADSET CLEAR COM CC  95", "Patrimonio": "000104", "NS": "KM154", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": "APOIO VW\r\nMANUTENÇÃO 21/08/24"},
+  {"id_item": "852", "Equipamento": "HEADSET CLEAR COM CC  95", "Patrimonio": "000104", "NS": "KM154", "Grupo": "APOIO SNG2 (VW)", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": "APOIO VW\r\nMANUTENÇÃO 21/08/24"},
   {"id_item": "144", "Equipamento": "BATERIA ENERGIA BP L  60", "Patrimonio": "000105", "NS": "BP0507119", "Grupo": "PENDENTES ACCELO", "Cliente": "", "Observacoes": "APOIO 5992"},
   {"id_item": "1931", "Equipamento": "TRIPE SACHTLER VIDEO  14", "Patrimonio": "000107", "NS": "1416063X", "Grupo": "ALERJ", "Cliente": "", "Observacoes": "ALERJ"},
   {"id_item": "210", "Equipamento": "BELTPACK CLEAR COM RS  701", "Patrimonio": "000108", "NS": "35TCO966", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
