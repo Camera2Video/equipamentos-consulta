@@ -2345,7 +2345,7 @@
   {"id_item": "300", "Equipamento": "CAMERA SONY HSC  100  R", "Patrimonio": "004921", "NS": "10146", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
   {"id_item": "677", "Equipamento": "DOCK STAGE SONY XDCA FS  7", "Patrimonio": "004922", "NS": "16055", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1764", "Equipamento": "SWITCH ETHERNET HPE OFFICE CONNECT  1910  JG  539  A", "Patrimonio": "004923", "NS": "TW94K3M0BB", "Grupo": "ANGRA DOS REIS", "Cliente": "", "Observacoes": ""},
-  {"id_item": "2025", "Equipamento": "VIEWFINDER SONY HDVF  200", "Patrimonio": "004925", "NS": "1607033", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": "CÂMERA 5"},
+  {"id_item": "2025", "Equipamento": "VIEWFINDER SONY HDVF  200", "Patrimonio": "004925", "NS": "1607033", "Grupo": "APOIO SNG2 (VW)", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": "CÂMERA 5"},
   {"id_item": "572", "Equipamento": "CONVERSOR BLACKMAGIC OPTICAL TO SDI  3  G", "Patrimonio": "004926", "NS": "5971862", "Grupo": "PENDENTES VW", "Cliente": "", "Observacoes": ""},
   {"id_item": "1541", "Equipamento": "RACK DIMMER DCP  4  .  4  KW", "Patrimonio": "004927", "NS": "L33134", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "2032", "Equipamento": "VIEWFINDER SONY PMW  350", "Patrimonio": "004928", "NS": "VF45534", "Grupo": "ENG ESPN SP", "Cliente": "", "Observacoes": "VIEWFINDER INDO PARA O PABLO\r\nESCRITO EM: 30/06/2026 15:36\r\nNÃO FOI PARA ANGRA, JORGINHO CANCELOU------------------------\r\nESCRITO EM: 28/05/2026 11:54\r\nPARA ANGRA------------------------\r\nESCRITO EM: 28/05/2026 10:49"},
