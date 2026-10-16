@@ -1167,7 +1167,7 @@
   {"id_item": "811", "Equipamento": "HD AJA KIPRO", "Patrimonio": "003114", "NS": "S0211838", "Grupo": "INATIVO", "Cliente": "", "Observacoes": "EQUIPAMENTO VENDIDO PARA A CINELOC - ESCRITO EM 09/03/26\r\n*************************************\r\n>>COM PROBLEMA DE HD_QUE NÃO SERÁ RECUPERADO<<\r\n>>\r\nMG_19/07/24"},
   {"id_item": "1400", "Equipamento": "MONITOR SONY PVM  1741", "Patrimonio": "003115", "NS": "7001327", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": "PARTE OPERAÇÃO DE VÍDEO"},
   {"id_item": "1480", "Equipamento": "PAINEL DE LED ENERGIA PROLITE PANEL  30  X  30", "Patrimonio": "003117", "NS": "2491", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
-  {"id_item": "1480", "Equipamento": "PAINEL DE LED ENERGIA PROLITE PANEL  30  X  30", "Patrimonio": "003118", "NS": "ML19170355", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
+  {"id_item": "1480", "Equipamento": "PAINEL DE LED ENERGIA PROLITE PANEL  30  X  30", "Patrimonio": "003118", "NS": "ML19170355", "Grupo": "ALERJ", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
   {"id_item": "1315", "Equipamento": "MONITOR DE VIDEO SONY PVM  740", "Patrimonio": "003119", "NS": "3001014", "Grupo": "MANGARATIBA", "Cliente": "", "Observacoes": ""},
   {"id_item": "1047", "Equipamento": "LENTE FUJINON XS  8  X  4  ASXXBB", "Patrimonio": "003122", "NS": "163001631", "Grupo": "SEM GRUPO", "Cliente": "CAMERA2", "Observacoes": ""},
   {"id_item": "537", "Equipamento": "CONTROLE DE ZOOM FUJINON ERD  10  A D  01", "Patrimonio": "003123", "NS": "M11120", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
