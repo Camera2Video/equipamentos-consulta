@@ -3980,7 +3980,7 @@
   {"id_item": "319", "Equipamento": "CAMERA SONY PXW X  400", "Patrimonio": "008183", "NS": "0010264", "Grupo": "ENG VERMELHA ESPN RIO", "Cliente": "", "Observacoes": ""},
   {"id_item": "2008", "Equipamento": "VIEWFINDER HD SONY CBK VF  01", "Patrimonio": "008184", "NS": "0011011", "Grupo": "ENG VERMELHA ESPN RIO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1041", "Equipamento": "LENTE FUJINON XA  16  X  8  A XB  8  A", "Patrimonio": "008185", "NS": "D62004876", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": "CAMERA SONY PMW-400 - PAT.8183"},
-  {"id_item": "319", "Equipamento": "CAMERA SONY PXW X  400", "Patrimonio": "008186", "NS": "0010935", "Grupo": "ENG VERDE ESPN RIO", "Cliente": "", "Observacoes": ""},
+  {"id_item": "319", "Equipamento": "CAMERA SONY PXW X  400", "Patrimonio": "008186", "NS": "0010935", "Grupo": "ENG VERDE ESPN RIO", "Cliente": "TV GLOBO", "Observacoes": ""},
   {"id_item": "2008", "Equipamento": "VIEWFINDER HD SONY CBK VF  01", "Patrimonio": "008187", "NS": "0010264", "Grupo": "ENG ESPN SP", "Cliente": "", "Observacoes": ""},
   {"id_item": "1041", "Equipamento": "LENTE FUJINON XA  16  X  8  A XB  8  A", "Patrimonio": "008188", "NS": "D62007749", "Grupo": "LOCAÇÃO", "Cliente": "ESPN", "Observacoes": ""},
   {"id_item": "1145", "Equipamento": "MICROFONE AMBIENTE SONY ECM MS  2", "Patrimonio": "008189", "NS": "981800", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
