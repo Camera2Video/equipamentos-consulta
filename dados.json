@@ -1292,7 +1292,7 @@
   {"id_item": "941", "Equipamento": "LAPTOP APPLE MACKBOOK PRO", "Patrimonio": "003321", "NS": "C2XFD8C9DH2G", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "1238", "Equipamento": "MODULADOR NEWTEC AZ  110  AZIMUTH", "Patrimonio": "003325", "NS": "40002996", "Grupo": "SNG2", "Cliente": "", "Observacoes": ""},
   {"id_item": "1481", "Equipamento": "PAINEL DE LED ENERGIA PROLITE PANEL D  50  VMC  30  X  30", "Patrimonio": "003326", "NS": "PL2349", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
-  {"id_item": "1108", "Equipamento": "MESA DE AUDIO YAMAHA DM  1000", "Patrimonio": "003327", "NS": "UAR101002", "Grupo": "ANGRA DOS REIS", "Cliente": "", "Observacoes": ""},
+  {"id_item": "1108", "Equipamento": "MESA DE AUDIO YAMAHA DM  1000", "Patrimonio": "003327", "NS": "UAR101002", "Grupo": "ANGRA DOS REIS", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
   {"id_item": "879", "Equipamento": "HYBRIDA TELOS HX  1  HX  2", "Patrimonio": "003330", "NS": "HX2K0511", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": "ESTAVA MARCADO COMO 5992 - ACHEI NA TÉCNICA E RETORNEI PARA O RACK 1 DA LOCAÇÃO - ESCRITO EM 01/05/26\r\n*********************************\r\nNO RACK 1 DA LOCAÇÃO EM 18/11/25"},
   {"id_item": "2057", "Equipamento": "WAVEFORM VIDEOTEK CMN  91   3  GB", "Patrimonio": "003332", "NS": "121000458", "Grupo": "ANGRA DOS REIS", "Cliente": "", "Observacoes": "PARA ANGRA EM 09/12/25 - ESCRITO EM 05/12/25"},
   {"id_item": "1882", "Equipamento": "TRANSMISSOR SENNHEISER SK  250  UHF", "Patrimonio": "003334", "NS": "204759", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
