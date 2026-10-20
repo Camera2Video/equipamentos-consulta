@@ -6409,7 +6409,7 @@
   {"id_item": "1217", "Equipamento": "MIXER DIGITAL ALLEN & HEATH SQ  6", "Patrimonio": "011338", "NS": "SQ6X001018934", "Grupo": "SNG2", "Cliente": "", "Observacoes": "ACOMPANHA PLACA DANTE NS D64X-1016633"},
   {"id_item": "1678", "Equipamento": "CONVERSOR SONIFEX ANALOG TO DANTE AVN AI  16  R", "Patrimonio": "011339", "NS": "TL0139942", "Grupo": "PENDENTES 5992", "Cliente": "", "Observacoes": "ESTAVA NA KRA E APARECEU NA 5992 - ESCRITO EM 03/03/26\r\n***************************************************\r\n16 ENTRADAS PoE"},
   {"id_item": "940", "Equipamento": "KVM SWITCHER AIMOS 2 X 1 HDMI USB", "Patrimonio": "011340", "NS": "7891761356986", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": "PARTE OPERAÇÃO DE VÍDEO"},
-  {"id_item": "162", "Equipamento": "BATERIA IDX ENDURA DUO C  98", "Patrimonio": "011341", "NS": "DC1CD91L0430A", "Grupo": "ENG VERDE ESPN RIO", "Cliente": "", "Observacoes": ""},
+  {"id_item": "162", "Equipamento": "BATERIA IDX ENDURA DUO C  98", "Patrimonio": "011341", "NS": "DC1CD91L0430A", "Grupo": "ENG VERDE ESPN RIO", "Cliente": "ENG ESPN AMARELA (BY1)", "Observacoes": ""},
   {"id_item": "162", "Equipamento": "BATERIA IDX ENDURA DUO C  98", "Patrimonio": "011342", "NS": "DC1CD91L0426A", "Grupo": "ENG LARANJA (BY2) ESPN RIO", "Cliente": "ESPN", "Observacoes": ""},
   {"id_item": "162", "Equipamento": "BATERIA IDX ENDURA DUO C  98", "Patrimonio": "011343", "NS": "DC1CD91L0417A", "Grupo": "ENG VERDE ESPN RIO", "Cliente": "", "Observacoes": ""},
   {"id_item": "162", "Equipamento": "BATERIA IDX ENDURA DUO C  98", "Patrimonio": "011344", "NS": "DC1CD91L0290A", "Grupo": "ENG VERMELHA ESPN RIO", "Cliente": "", "Observacoes": ""},
