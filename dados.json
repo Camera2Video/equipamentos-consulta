@@ -2816,7 +2816,7 @@
   {"id_item": "1177", "Equipamento": "MICROFONE DIRECIONAL SENNHEISER ME  66", "Patrimonio": "006405", "NS": "1397206010", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
   {"id_item": "1937", "Equipamento": "TRIPE SACHTLER VIDEO  18  SB", "Patrimonio": "006406", "NS": "18SB2823", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "", "Observacoes": "CABEÇA PAT. 8089"},
   {"id_item": "229", "Equipamento": "BRACO ARTICULADO MATTHEWS", "Patrimonio": "006407", "NS": "BM6407", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "", "Observacoes": ""},
-  {"id_item": "314", "Equipamento": "CAMERA SONY PDW F  800", "Patrimonio": "006408", "NS": "10967", "Grupo": "LOCAÇÃO", "Cliente": "ESPN", "Observacoes": ""},
+  {"id_item": "314", "Equipamento": "CAMERA SONY PDW F  800", "Patrimonio": "006408", "NS": "10967", "Grupo": "INATIVO", "Cliente": "ESPN", "Observacoes": "ERROR DISC DRIVER------------------------\r\nESCRITO EM: 20/10/2026 16:05"},
   {"id_item": "161", "Equipamento": "BATERIA IDX ENDURA DUO C  198", "Patrimonio": "006409", "NS": "DE1CD02L0442", "Grupo": "ENG VERDE ESPN RIO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1196", "Equipamento": "MICROFONE SENNHEISER MD  431  II", "Patrimonio": "006410", "NS": "36546", "Grupo": "ENG ESPN SP", "Cliente": "", "Observacoes": ""},
   {"id_item": "1080", "Equipamento": "MALA DE LUZ LOWELL", "Patrimonio": "006411", "NS": "ML6411", "Grupo": "SEM GRUPO", "Cliente": "", "Observacoes": ""},
