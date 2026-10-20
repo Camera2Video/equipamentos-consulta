@@ -6170,7 +6170,7 @@
   {"id_item": "762", "Equipamento": "FONTE DE ALIMENTACAO DIGITAL AJUSTAVEL  9  A  24  V T BLUE LE  0187", "Patrimonio": "011094", "NS": "490110", "Grupo": "PENDENTES ACCELO", "Cliente": "", "Observacoes": ""},
   {"id_item": "763", "Equipamento": "FONTE E CARREGADOR JFA ELETRONICOS", "Patrimonio": "011096", "NS": "102479700194-57016", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "", "Observacoes": ""},
   {"id_item": "1723", "Equipamento": "SUNGUN INOVA LAN  12807", "Patrimonio": "011097", "NS": "790110", "Grupo": "APOIO 5992 (ACCELO)", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
-  {"id_item": "1723", "Equipamento": "SUNGUN INOVA LAN  12807", "Patrimonio": "011098", "NS": "890110", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
+  {"id_item": "1723", "Equipamento": "SUNGUN INOVA LAN  12807", "Patrimonio": "011098", "NS": "890110", "Grupo": "LOCAÇÃO", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
   {"id_item": "1723", "Equipamento": "SUNGUN INOVA LAN  12807", "Patrimonio": "011099", "NS": "990110", "Grupo": "ENG AMARELA (BY1) ESPN RIO", "Cliente": "ESPN", "Observacoes": ""},
   {"id_item": "1723", "Equipamento": "SUNGUN INOVA LAN  12807", "Patrimonio": "011100", "NS": "001110", "Grupo": "ANGRA DOS REIS", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
   {"id_item": "1723", "Equipamento": "SUNGUN INOVA LAN  12807", "Patrimonio": "011101", "NS": "101110", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
