@@ -1209,7 +1209,7 @@
   {"id_item": "532", "Equipamento": "CONTROLE DE FOCUS FUJINON EPD  4  A S  13  E", "Patrimonio": "003167", "NS": "B20987", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
   {"id_item": "1615", "Equipamento": "REMOTE CONTROL SONY RCP  1530", "Patrimonio": "003168", "NS": "101457", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": "PARTE OPERAÇÃO DE VÍDEO"},
   {"id_item": "982", "Equipamento": "LEITOR SONY XDCAM PDW U  1", "Patrimonio": "003169", "NS": "30528", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
-  {"id_item": "2024", "Equipamento": "VIEWFINDER SONY HDVF  20  A", "Patrimonio": "003170", "NS": "1202333", "Grupo": "ENG ESPN SP", "Cliente": "", "Observacoes": ""},
+  {"id_item": "2024", "Equipamento": "VIEWFINDER SONY HDVF  20  A", "Patrimonio": "003170", "NS": "1202333", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "778", "Equipamento": "FUJINON XS  8  X  4  AS XB  8", "Patrimonio": "003171", "NS": "163001634", "Grupo": "SEM GRUPO", "Cliente": "", "Observacoes": ""},
   {"id_item": "608", "Equipamento": "CONVERSOR BLACKMAGIC SDI TO ANALOG", "Patrimonio": "003175", "NS": "914736H", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "473", "Equipamento": "CCU SONY HXCU  100", "Patrimonio": "003177", "NS": "11459", "Grupo": "SNG4", "Cliente": "", "Observacoes": ""},
