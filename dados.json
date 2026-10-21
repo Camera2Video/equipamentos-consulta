@@ -5787,7 +5787,7 @@
   {"id_item": "479", "Equipamento": "CESTA DE LIXO", "Patrimonio": "010490", "NS": "094010", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "479", "Equipamento": "CESTA DE LIXO", "Patrimonio": "010491", "NS": "194010", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "574", "Equipamento": "CONVERSOR BLACKMAGIC SDI TO HDMI", "Patrimonio": "010492", "NS": "", "Grupo": "ALERJ", "Cliente": "", "Observacoes": "PALÁCIO TIRADENTES"},
-  {"id_item": "1159", "Equipamento": "MICROFONE SENNHEISER E  835  S", "Patrimonio": "010493", "NS": "394010", "Grupo": "LOCAÇÃO", "Cliente": "ESPN", "Observacoes": ""},
+  {"id_item": "1159", "Equipamento": "MICROFONE SENNHEISER E  835  S", "Patrimonio": "010493", "NS": "394010", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1159", "Equipamento": "MICROFONE SENNHEISER E  835  S", "Patrimonio": "010494", "NS": "494010", "Grupo": "APOIO 5992 (ACCELO)", "Cliente": "", "Observacoes": ""},
   {"id_item": "1159", "Equipamento": "MICROFONE SENNHEISER E  835  S", "Patrimonio": "010495", "NS": "594010", "Grupo": "APOIO 5992 (ACCELO)", "Cliente": "", "Observacoes": ""},
   {"id_item": "1159", "Equipamento": "MICROFONE SENNHEISER E  835  S", "Patrimonio": "010496", "NS": "694010", "Grupo": "PENDENTES ACCELO", "Cliente": "", "Observacoes": ""},
