@@ -1168,7 +1168,7 @@
   {"id_item": "811", "Equipamento": "HD AJA KIPRO", "Patrimonio": "003054", "NS": "S4U000657", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "209", "Equipamento": "BELTPACK CLEAR COM RS  601", "Patrimonio": "003059", "NS": "C0112L0470", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "52", "Equipamento": "AMPLIFICADOR DE HEADPHONE JK AUDIO REMOTEAMP", "Patrimonio": "003060", "NS": "RA04023", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
-  {"id_item": "1479", "Equipamento": "PAINEL DE LED ENERGIA PROLITE  6000  MC  30  X  30", "Patrimonio": "003061", "NS": "PL3061", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
+  {"id_item": "1479", "Equipamento": "PAINEL DE LED ENERGIA PROLITE  6000  MC  30  X  30", "Patrimonio": "003061", "NS": "PL3061", "Grupo": "ALERJ", "Cliente": "ESPN", "Observacoes": ""},
   {"id_item": "768", "Equipamento": "FRAME SYNCHRONIZE HARRIS X  50", "Patrimonio": "003062", "NS": "LHTI5212203954", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": "EQUIPAMENTO CHEGOU DA ALERJ HOJE - ESTÁ COM OUT1 E IN1 OFFS APÓS DIAGNÓSTICO DO PAULINHO - NA SALA DE EQUIPAMENTOS POR ENQUANTO - ESCRITO EM 05/02/26\r\nUSAR APENAS IN / OUT 2"},
   {"id_item": "768", "Equipamento": "FRAME SYNCHRONIZE HARRIS X  50", "Patrimonio": "003063", "NS": "LHTI5212233598", "Grupo": "FORD", "Cliente": "", "Observacoes": "INDO HOJE PARA O FORD - ESCRITO EM 08/01/26"},
   {"id_item": "848", "Equipamento": "HEADPHONE SONY MDR  7506", "Patrimonio": "003068", "NS": "HP355150", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
