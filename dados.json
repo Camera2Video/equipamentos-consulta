@@ -7119,7 +7119,7 @@
   {"id_item": "1996", "Equipamento": "PAINEL BLACKMAGIC VIDEOHUB MASTER CONTROL PRO", "Patrimonio": "012018", "NS": "14510116", "Grupo": "FORD", "Cliente": "", "Observacoes": ""},
   {"id_item": "1996", "Equipamento": "PAINEL BLACKMAGIC VIDEOHUB MASTER CONTROL PRO", "Patrimonio": "012019", "NS": "14509907", "Grupo": "FORD", "Cliente": "", "Observacoes": ""},
   {"id_item": "2077", "Equipamento": "MATRIZ BLACKMAGIC VIDEOHUB 80X80 12G", "Patrimonio": "012020", "NS": "14471176", "Grupo": "SNG2", "Cliente": "", "Observacoes": ""},
-  {"id_item": "2078", "Equipamento": "SUNGUN MCI LED KIT 2BI COLOR", "Patrimonio": "012021", "NS": "712004014", "Grupo": "ENG LARANJA (BY2) ESPN RIO", "Cliente": "ENG ESPN LARANJA (BY2)", "Observacoes": ""},
+  {"id_item": "2078", "Equipamento": "SUNGUN MCI LED KIT 2BI COLOR", "Patrimonio": "012021", "NS": "712004014", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "2079", "Equipamento": "RADIO DE BANDA DUPLA BAOFENG UV 82HP", "Patrimonio": "012022", "NS": "220210", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
   {"id_item": "2079", "Equipamento": "RADIO DE BANDA DUPLA BAOFENG UV 82HP", "Patrimonio": "012023", "NS": "320210", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": "400-520 MHz"},
   {"id_item": "2079", "Equipamento": "RADIO DE BANDA DUPLA BAOFENG UV 82HP", "Patrimonio": "012024", "NS": "420210", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": "400-520 MHz"},
