@@ -6854,7 +6854,7 @@
   {"id_item": "1920", "Equipamento": "TRIPE LIBEC H  85", "Patrimonio": "011762", "NS": "267110", "Grupo": "APOIO FORD", "Cliente": "", "Observacoes": ""},
   {"id_item": "2141", "Equipamento": "ALICATE DE CRIMPAR CABOS DE REDE JONARD TOOLS UC 4569", "Patrimonio": "012271", "NS": "172210", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": "COLOCADO NA PARTE DE INFORMÁTICA (JV) NO ATO DO CADASTRO"},
   {"id_item": "2142", "Equipamento": "SWITCH KVM ATEN CS 1824", "Patrimonio": "012272", "NS": "F3010030024", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": "COLOCADO NA PARTE DE INFORMÁTICA (JV) NO ATO DO CADASTRO"},
-  {"id_item": "2142", "Equipamento": "SWITCH KVM ATEN CS 1824", "Patrimonio": "012273", "NS": "F3010030023", "Grupo": "LOCAÇÃO", "Cliente": "TV GLOBO", "Observacoes": "COLOCADO NA PARTE DE INFORMÁTICA (JV) NO ATO DO CADASTRO"},
+  {"id_item": "2142", "Equipamento": "SWITCH KVM ATEN CS 1824", "Patrimonio": "012273", "NS": "F3010030023", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": "COLOCADO NA PARTE DE INFORMÁTICA (JV) NO ATO DO CADASTRO"},
   {"id_item": "2142", "Equipamento": "SWITCH KVM ATEN CS 1824", "Patrimonio": "012274", "NS": "F3010030025", "Grupo": "FORD", "Cliente": "", "Observacoes": ""},
   {"id_item": "2142", "Equipamento": "SWITCH KVM ATEN CS 1824", "Patrimonio": "012275", "NS": "F3010030022", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": "COLOCADO NA PARTE DE INFORMÁTICA (JV) NO ATO DO CADASTRO"},
   {"id_item": "2143", "Equipamento": "SWITCH UBIQUITI EDGE CORE 16 XG", "Patrimonio": "012276", "NS": "F09FC26445CB", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": "COLOCADO NA PARTE DE INFORMÁTICA (JV) NO ATO DO CADASTRO"},
