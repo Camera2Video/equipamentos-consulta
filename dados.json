@@ -4181,7 +4181,7 @@
   {"id_item": "57", "Equipamento": "ROTEADOR EXTERNO PARA CHIP ELSYS AMPLIMAX EPRL 12", "Patrimonio": "008594", "NS": "I8H010940013726", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1781", "Equipamento": "SWITCH UBIQUITI EDGE SWITCH  48   500  W", "Patrimonio": "008595", "NS": "1434K0418D631FCDF", "Grupo": "ALERJ", "Cliente": "", "Observacoes": "ENTREGUE AO ELTON------------------------\r\nESCRITO EM: 28/07/2026 10:40\r\nEQUIPAMENTO DA ALERJ - EMPRÉSTIMO PARA O SNG4 - COM  CAIO/RODRIGO PARA TESTES NO SNG4------------------------\r\nESCRITO EM: 27/07/2026 10:45"},
   {"id_item": "240", "Equipamento": "CABECA DE EEFEITO", "Patrimonio": "008596", "NS": "695800", "Grupo": "ENG VERMELHA ESPN RIO", "Cliente": "", "Observacoes": ""},
-  {"id_item": "1343", "Equipamento": "MONITOR LG  32   4  K  32UR500B", "Patrimonio": "008597", "NS": "405AZKAA6469", "Grupo": "LOCAÇÃO", "Cliente": "VW", "Observacoes": ""},
+  {"id_item": "1343", "Equipamento": "MONITOR LG  32   4  K  32UR500B", "Patrimonio": "008597", "NS": "405AZKAA6469", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1677", "Equipamento": "SOFTBOX SHB  002", "Patrimonio": "008598", "NS": "895800", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "1602", "Equipamento": "REGUA DE AC  08  POSICOES", "Patrimonio": "008599", "NS": "990085", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1513", "Equipamento": "PEDESTAL DE MICROFONE", "Patrimonio": "008960", "NS": "609800", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
