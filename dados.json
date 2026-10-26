@@ -3446,7 +3446,7 @@
   {"id_item": "88", "Equipamento": "ASTO SOUNDBAR GXT  618", "Patrimonio": "007088", "NS": "20122804369", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "1206", "Equipamento": "MINI PC ACCEPT", "Patrimonio": "007089", "NS": "613975", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "518", "Equipamento": "CONTROLADORA STREAM DECK XL", "Patrimonio": "007090", "NS": "CL13K1A02104", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ">>ALERJ_DESAPARECEDIDA<<"},
-  {"id_item": "839", "Equipamento": "HEADPHONE SENNEHEISER HD  26  PRO", "Patrimonio": "007091", "NS": "1078105889", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
+  {"id_item": "839", "Equipamento": "HEADPHONE SENNEHEISER HD  26  PRO", "Patrimonio": "007091", "NS": "1078105889", "Grupo": "APOIO SNG2 (VW)", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
   {"id_item": "1168", "Equipamento": "MICROFONE DE MESA", "Patrimonio": "007092", "NS": "2007316362", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "880", "Equipamento": "HYPERDECK BLACKMAGIC STUDIO HD PLUS", "Patrimonio": "007093", "NS": "8647923", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "238", "Equipamento": "BRUT LED HB BRT  400  WA", "Patrimonio": "007094", "NS": "HBL400WA062020002", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
