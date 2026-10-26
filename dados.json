@@ -1547,7 +1547,7 @@
   {"id_item": "1378", "Equipamento": "MONITOR SONY  17  PVM  1741", "Patrimonio": "003745", "NS": "7000614", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": "PARTE OPERAÇÃO DE VÍDEO"},
   {"id_item": "1935", "Equipamento": "TRIPE SACHTLER VIDEO  18  SB", "Patrimonio": "003747", "NS": "18SB4884", "Grupo": "APOIO FORD", "Cliente": "", "Observacoes": "ESTÁ NA SALA DE PRODUÇÃO; IRÁ PARA O FORD - ESCRITO EM 06/01/26"},
   {"id_item": "723", "Equipamento": "ESTACAO DE COMUNICACAO IP CLEAR COM VOICE  2", "Patrimonio": "004033", "NS": "400M329", "Grupo": "INATIVO", "Cliente": "", "Observacoes": "- PATRIMONIO MUDOU PARA 10725."},
-  {"id_item": "819", "Equipamento": "HD EXTERNO SAMSUNG  1  TB", "Patrimonio": "004035", "NS": "E2FWJJHG60B51A", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
+  {"id_item": "819", "Equipamento": "HD EXTERNO SAMSUNG  1  TB", "Patrimonio": "004035", "NS": "E2FWJJHG60B51A", "Grupo": "LOCAÇÃO", "Cliente": "CAMERA2", "Observacoes": ""},
   {"id_item": "549", "Equipamento": "CONTROLE REMOTO GOPRO HERO", "Patrimonio": "004036", "NS": "A1111424655303", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1577", "Equipamento": "RECEPTOR SHURE UR  5", "Patrimonio": "004037", "NS": "30J2179833-01", "Grupo": "PENDENTES ATEGO", "Cliente": "", "Observacoes": ""},
   {"id_item": "737", "Equipamento": "EXTENSOR HDMI", "Patrimonio": "004038", "NS": "171820", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
