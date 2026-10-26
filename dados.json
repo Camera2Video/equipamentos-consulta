@@ -3635,7 +3635,7 @@
   {"id_item": "1136", "Equipamento": "MICROFONE AMBIENTE ECM XM  1  SONY", "Patrimonio": "007303", "NS": "MC303700", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "", "Observacoes": ""},
   {"id_item": "863", "Equipamento": "HEADSET SENNHEISER HMD  26", "Patrimonio": "007304", "NS": "00300826", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "", "Observacoes": "ESTÁ COM O WALACE, ERA DO CHICO - ESCRITO EM 04/02/26"},
   {"id_item": "1196", "Equipamento": "MICROFONE SENNHEISER MD  431  II", "Patrimonio": "007305", "NS": "34868", "Grupo": "ENG ESPN SP", "Cliente": "", "Observacoes": ""},
-  {"id_item": "844", "Equipamento": "HEADPHONE SENNHEISER HD  26  PRO", "Patrimonio": "007306", "NS": "1216103668", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
+  {"id_item": "844", "Equipamento": "HEADPHONE SENNHEISER HD  26  PRO", "Patrimonio": "007306", "NS": "1216103668", "Grupo": "APOIO SNG2 (VW)", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
   {"id_item": "1870", "Equipamento": "TRANSMISSOR LECTROSONICS IFB T  4", "Patrimonio": "007307", "NS": "6734", "Grupo": "PENDENTES VW", "Cliente": "", "Observacoes": "BLOCK 944"},
   {"id_item": "1196", "Equipamento": "MICROFONE SENNHEISER MD  431  II", "Patrimonio": "007308", "NS": "36548", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
   {"id_item": "1196", "Equipamento": "MICROFONE SENNHEISER MD  431  II", "Patrimonio": "007309", "NS": "35206", "Grupo": "ENG ESPN SP", "Cliente": "", "Observacoes": ""},
