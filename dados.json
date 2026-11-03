@@ -5073,7 +5073,7 @@
   {"id_item": "1540", "Equipamento": "QUADRO ELETRICO VERSATIL  150  A  24  MINI DISJ. GOMES", "Patrimonio": "009769", "NS": "967900", "Grupo": "ANGRA DOS REIS", "Cliente": "", "Observacoes": ""},
   {"id_item": "1540", "Equipamento": "QUADRO ELETRICO VERSATIL  150  A  24  MINI DISJ. GOMES", "Patrimonio": "009770", "NS": "077900", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
   {"id_item": "792", "Equipamento": "GENLOCK MULTI STANDARD SG  6006  KRAMER", "Patrimonio": "009771", "NS": "077900", "Grupo": "ANGRA DOS REIS", "Cliente": "", "Observacoes": ""},
-  {"id_item": "1434", "Equipamento": "NOBREAK LIEBERT EMERSON GXT  3", "Patrimonio": "009772", "NS": "02050812773", "Grupo": "SEM GRUPO", "Cliente": "", "Observacoes": ""},
+  {"id_item": "1434", "Equipamento": "NOBREAK LIEBERT EMERSON GXT  3", "Patrimonio": "009772", "NS": "02050812773", "Grupo": "SALA TÉCNICA", "Cliente": "", "Observacoes": ""},
   {"id_item": "1434", "Equipamento": "NOBREAK LIEBERT EMERSON GXT  3", "Patrimonio": "009773", "NS": "1119300057BW1031522701416BW103", "Grupo": "ANGRA DOS REIS", "Cliente": "", "Observacoes": ""},
   {"id_item": "1471", "Equipamento": "PAINEL DE CONTROLE SONY MKS-2015", "Patrimonio": "009774", "NS": "11020", "Grupo": "SALA JORGINHO", "Cliente": "", "Observacoes": ""},
   {"id_item": "890", "Equipamento": "INTERFACE DANTE YAMAHA TIO  1608  D", "Patrimonio": "009775", "NS": "UECX01571", "Grupo": "SEM GRUPO", "Cliente": "", "Observacoes": ""},
