@@ -2027,7 +2027,7 @@
   {"id_item": "1296", "Equipamento": "MONITOR DE VIDEO LG  26  LU  50  FR", "Patrimonio": "006521", "NS": "911AZRD68406", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "572", "Equipamento": "CONVERSOR BLACKMAGIC OPTICAL TO SDI  3  G", "Patrimonio": "006522", "NS": "5971134", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "573", "Equipamento": "CONVERSOR BLACKMAGIC SDI TO AUDIO", "Patrimonio": "006523", "NS": "6197675", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
-  {"id_item": "870", "Equipamento": "HPA CPI INDOOR  750  W VZC  6967  AM", "Patrimonio": "006524", "NS": "C11276H9", "Grupo": "SALA TÉCNICA", "Cliente": "MANUTENCAO EXTERNA", "Observacoes": "ENTRANDO HOJE NO SNG1 - ESCRITO EM 12/01/26\r\n**********************************************\r\nNA SALA TÉCNICA - ESCRITO EM 17/11/25"},
+  {"id_item": "870", "Equipamento": "HPA CPI INDOOR  750  W VZC  6967  AM", "Patrimonio": "006524", "NS": "C11276H9", "Grupo": "SALA TÉCNICA", "Cliente": "", "Observacoes": "ENTRANDO HOJE NO SNG1 - ESCRITO EM 12/01/26\r\n**********************************************\r\nNA SALA TÉCNICA - ESCRITO EM 17/11/25"},
   {"id_item": "572", "Equipamento": "CONVERSOR BLACKMAGIC OPTICAL TO SDI  3  G", "Patrimonio": "006525", "NS": "5971009", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "572", "Equipamento": "CONVERSOR BLACKMAGIC OPTICAL TO SDI  3  G", "Patrimonio": "006526", "NS": "5971147", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "708", "Equipamento": "ENCODER TANDBERG VOYAGER E  5470", "Patrimonio": "006527", "NS": "TB38343", "Grupo": "INATIVO", "Cliente": "", "Observacoes": "SALA DOS TÉCNICOS - 10/10/25 -"},
