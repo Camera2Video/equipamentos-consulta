@@ -169,7 +169,7 @@
   {"id_item": "109", "Equipamento": "BASTIDOR  6800  PLUS HARRIS", "Patrimonio": "000057", "NS": "LHTI0276968038", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "109", "Equipamento": "BASTIDOR  6800  PLUS HARRIS", "Patrimonio": "000058", "NS": "LHTI0470376012", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "109", "Equipamento": "BASTIDOR  6800  PLUS HARRIS", "Patrimonio": "000059", "NS": "LHTI0525097081", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
-  {"id_item": "2144", "Equipamento": "NO BREAK VERTIV 10 KVA KMVRT  6  UXLN", "Patrimonio": "000060", "NS": "2200601847BWFL6", "Grupo": "SNG3", "Cliente": "MANUTENCAO EXTERNA", "Observacoes": ""},
+  {"id_item": "2144", "Equipamento": "NOBREAK VERTIV 10 KVA KMVRT  6  UXLN", "Patrimonio": "000060", "NS": "2200601847BWFL6", "Grupo": "SNG3", "Cliente": "MANUTENCAO EXTERNA", "Observacoes": ""},
   {"id_item": "1099", "Equipamento": "MATTE BOX CHROSZIEL", "Patrimonio": "000068", "NS": "MB3245", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1223", "Equipamento": "MIXER SHURE FP  33", "Patrimonio": "000069", "NS": "70251989", "Grupo": "LOCAÇÃO", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
   {"id_item": "1223", "Equipamento": "MIXER SHURE FP  33", "Patrimonio": "000070", "NS": "62061669", "Grupo": "ENG VERDE ESPN RIO", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
