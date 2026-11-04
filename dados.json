@@ -5815,7 +5815,7 @@
   {"id_item": "1416", "Equipamento": "MOUSE BASIC OPTICAL MICROSOFT WIRED 600 DESKTOP V  2  .  0", "Patrimonio": "010420", "NS": "020104", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1571", "Equipamento": "RECEPTOR SENNHEISER EM  500  G  3", "Patrimonio": "010425", "NS": "524010", "Grupo": "ALERJ", "Cliente": "", "Observacoes": "SEGUE PARA A ALERJ EM 25/05/26 - TESTADO PELO MÁRCIO------------------------\r\nESCRITO EM: 21/05/2026 17:38"},
   {"id_item": "657", "Equipamento": "DIMMER SHOW DESIGNER DMX  512", "Patrimonio": "010433", "NS": "334010", "Grupo": "ANGRA DOS REIS", "Cliente": "", "Observacoes": "PARA ANGRA - ESCRITO EM 13/03/26"},
-  {"id_item": "1432", "Equipamento": "NOBREAK EATON  9  PX  11000", "Patrimonio": "010481", "NS": "184010", "Grupo": "INATIVO", "Cliente": "", "Observacoes": "CADASTRADO ERRADAMENTE"},
+  {"id_item": "1432", "Equipamento": "NOBREAK EATON  9  PX  11000", "Patrimonio": "010481", "NS": "184010", "Grupo": "INATIVO", "Cliente": "", "Observacoes": "CADASTRADO ERRADAMENTE EM 2024"},
   {"id_item": "1538", "Equipamento": "QUADRO BRANCO", "Patrimonio": "010487", "NS": "784010", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "479", "Equipamento": "CESTA DE LIXO", "Patrimonio": "010488", "NS": "884010", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "479", "Equipamento": "CESTA DE LIXO", "Patrimonio": "010489", "NS": "984010", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
