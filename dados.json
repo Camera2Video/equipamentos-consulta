@@ -5804,7 +5804,7 @@
   {"id_item": "571", "Equipamento": "CONVERSOR BLACKMAGIC OPTICAL TO SDI  12  G", "Patrimonio": "010396", "NS": "11630144", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "571", "Equipamento": "CONVERSOR BLACKMAGIC OPTICAL TO SDI  12  G", "Patrimonio": "010397", "NS": "11630158", "Grupo": "PENDENTES VW", "Cliente": "", "Observacoes": ""},
   {"id_item": "571", "Equipamento": "CONVERSOR BLACKMAGIC OPTICAL TO SDI  12  G", "Patrimonio": "010398", "NS": "11630119", "Grupo": "PENDENTES VW", "Cliente": "", "Observacoes": ""},
-  {"id_item": "571", "Equipamento": "CONVERSOR BLACKMAGIC OPTICAL TO SDI  12  G", "Patrimonio": "010399", "NS": "11630214", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
+  {"id_item": "571", "Equipamento": "CONVERSOR BLACKMAGIC OPTICAL TO SDI  12  G", "Patrimonio": "010399", "NS": "11630214", "Grupo": "APOIO SNG2 (VW)", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
   {"id_item": "571", "Equipamento": "CONVERSOR BLACKMAGIC OPTICAL TO SDI  12  G", "Patrimonio": "010400", "NS": "11630180", "Grupo": "SEM GRUPO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1474", "Equipamento": "PAINEL DE LED  7  LIGHT BYCOLOR  97  W DMX  512", "Patrimonio": "010407", "NS": "704010", "Grupo": "ALERJ", "Cliente": "", "Observacoes": "INDO HOJE PARA A ALERJ - ESCRITO EM 05/02/26"},
   {"id_item": "1605", "Equipamento": "REGUA DE AC  12  POSICOES", "Patrimonio": "010408", "NS": "804010", "Grupo": "APOIO 5992 (ACCELO)", "Cliente": "", "Observacoes": ""},
