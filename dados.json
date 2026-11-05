@@ -3657,7 +3657,7 @@
   {"id_item": "104", "Equipamento": "BASE PARA TRIPE SONY VCT U  14  F", "Patrimonio": "007319", "NS": "913700", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
   {"id_item": "1431", "Equipamento": "NOBREAK BACK UPS RS  1500  APC", "Patrimonio": "007320", "NS": "BB0943018217", "Grupo": "MANGARATIBA", "Cliente": "", "Observacoes": ""},
   {"id_item": "1605", "Equipamento": "REGUA DE AC  12  POSICOES", "Patrimonio": "007321", "NS": "123700", "Grupo": "APOIO 5992 (ACCELO)", "Cliente": "", "Observacoes": ""},
-  {"id_item": "1432", "Equipamento": "NOBREAK EATON  9  PX  11000", "Patrimonio": "007322", "NS": "G209K30017", "Grupo": "SNG2", "Cliente": "", "Observacoes": ""},
+  {"id_item": "1432", "Equipamento": "NOBREAK EATON  9  PX  11000", "Patrimonio": "007322", "NS": "G209K30017", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1432", "Equipamento": "NOBREAK EATON  9  PX  11000", "Patrimonio": "007323", "NS": "G209K29020", "Grupo": "SNG2", "Cliente": "", "Observacoes": ""},
   {"id_item": "448", "Equipamento": "CARTAO SDXC ADVANTAGE DELKIN DEVICES  128  GB", "Patrimonio": "007324", "NS": "4237", "Grupo": "PENDENTES 5992", "Cliente": "", "Observacoes": ""},
   {"id_item": "448", "Equipamento": "CARTAO SDXC ADVANTAGE DELKIN DEVICES  128  GB", "Patrimonio": "007325", "NS": "5237", "Grupo": "SEM GRUPO", "Cliente": "", "Observacoes": ""},
