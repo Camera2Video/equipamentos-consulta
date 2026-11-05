@@ -1,5 +1,5 @@
 [
-  {"id_item": "2024", "Equipamento": "VIEWFINDER SONY HDVF  20  A", "Patrimonio": "006192", "NS": "25794", "Grupo": "LOCAÇÃO", "Cliente": "CAMERA2", "Observacoes": ""},
+  {"id_item": "2024", "Equipamento": "VIEWFINDER SONY HDVF  20  A", "Patrimonio": "006192", "NS": "25794", "Grupo": "LOCAÇÃO", "Cliente": "ATEGO", "Observacoes": ""},
   {"id_item": "1762", "Equipamento": "SWITCH UBIQUITI EDGE SWITCH  48   750  W", "Patrimonio": "012281", "NS": "1847G18E829224EB5", "Grupo": "FORD", "Cliente": "", "Observacoes": ""},
   {"id_item": "1781", "Equipamento": "SWITCH UBIQUITI EDGE SWITCH  48   500  W", "Patrimonio": "012282", "NS": "2050GF492BGA2BA52", "Grupo": "SNG2", "Cliente": "", "Observacoes": "YUAN------------------------\r\nESCRITO EM: 26/10/2026 16:23\r\nADQUIRIDO COM AVARIA NA PARTE DE SUPERIOR DO EQUIPAMENTO, CONFORME FOTO ENVIADA GRUPO TRÁFEGO"},
   {"id_item": "109", "Equipamento": "BASTIDOR  6800  PLUS HARRIS", "Patrimonio": "000003", "NS": "LHTI442576022", "Grupo": "ALERJ", "Cliente": "", "Observacoes": "INDO PARA ANGRA EM 09/12/25 - ESCRITO EM 05/12/25"},
@@ -6918,7 +6918,7 @@
   {"id_item": "840", "Equipamento": "HEADPHONE SENNHEISER HD  25", "Patrimonio": "011810", "NS": "018110", "Grupo": "SALA JORGINHO / MENINAS", "Cliente": "CAMERA2", "Observacoes": ""},
   {"id_item": "842", "Equipamento": "HEADPHONE SENNHEISER HD  25  PLUS", "Patrimonio": "011811", "NS": "118110", "Grupo": "APOIO 5992 (ACCELO)", "Cliente": "", "Observacoes": ""},
   {"id_item": "842", "Equipamento": "HEADPHONE SENNHEISER HD  25  PLUS", "Patrimonio": "011812", "NS": "218110", "Grupo": "APOIO 5992 (ACCELO)", "Cliente": "", "Observacoes": ""},
-  {"id_item": "842", "Equipamento": "HEADPHONE SENNHEISER HD  25  PLUS", "Patrimonio": "011813", "NS": "318110", "Grupo": "SALA JORGINHO / MENINAS", "Cliente": "CAMERA2", "Observacoes": ""},
+  {"id_item": "842", "Equipamento": "HEADPHONE SENNHEISER HD  25  PLUS", "Patrimonio": "011813", "NS": "318110", "Grupo": "SALA JORGINHO / MENINAS", "Cliente": "ATEGO", "Observacoes": ""},
   {"id_item": "842", "Equipamento": "HEADPHONE SENNHEISER HD  25  PLUS", "Patrimonio": "011814", "NS": "418110", "Grupo": "APOIO 5992 (ACCELO)", "Cliente": "", "Observacoes": ""},
   {"id_item": "842", "Equipamento": "HEADPHONE SENNHEISER HD  25  PLUS", "Patrimonio": "011815", "NS": "518110", "Grupo": "APOIO 5992 (ACCELO)", "Cliente": "", "Observacoes": ""},
   {"id_item": "842", "Equipamento": "HEADPHONE SENNHEISER HD  25  PLUS", "Patrimonio": "011816", "NS": "618110", "Grupo": "APOIO 5992 (ACCELO)", "Cliente": "", "Observacoes": ""},
