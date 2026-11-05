@@ -638,7 +638,7 @@
   {"id_item": "1571", "Equipamento": "RECEPTOR SENNHEISER EM  500  G  3", "Patrimonio": "003888", "NS": "4231027489", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1951", "Equipamento": "TRIPE VINTEN PRO TOUCH", "Patrimonio": "003889", "NS": "988300", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "580", "Equipamento": "CONVERSOR BLACKMAGIC UPDOWNCROSS", "Patrimonio": "003890", "NS": "540674", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
-  {"id_item": "2024", "Equipamento": "VIEWFINDER SONY HDVF  20  A", "Patrimonio": "003891", "NS": "1012125", "Grupo": "LOCAÇÃO", "Cliente": "CAMERA2", "Observacoes": ""},
+  {"id_item": "2024", "Equipamento": "VIEWFINDER SONY HDVF  20  A", "Patrimonio": "003891", "NS": "1012125", "Grupo": "LOCAÇÃO", "Cliente": "ATEGO", "Observacoes": ""},
   {"id_item": "306", "Equipamento": "CAMERA SONY HXC  100", "Patrimonio": "003892", "NS": "", "Grupo": "INATIVO", "Cliente": "", "Observacoes": "** CAMERA FOI PARA O TONY (EUA) ** MG"},
   {"id_item": "473", "Equipamento": "CCU SONY HXCU  100", "Patrimonio": "003894", "NS": "10917", "Grupo": "SNG4", "Cliente": "", "Observacoes": ""},
   {"id_item": "580", "Equipamento": "CONVERSOR BLACKMAGIC UPDOWNCROSS", "Patrimonio": "003895", "NS": "505301", "Grupo": "APOIO 5992 (ACCELO)", "Cliente": "", "Observacoes": ""},
