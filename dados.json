@@ -6213,7 +6213,7 @@
   {"id_item": "1723", "Equipamento": "SUNGUN INOVA LAN  12807", "Patrimonio": "011098", "NS": "890110", "Grupo": "LOCAÇÃO", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
   {"id_item": "1723", "Equipamento": "SUNGUN INOVA LAN  12807", "Patrimonio": "011099", "NS": "990110", "Grupo": "ENG AMARELA (BY1) ESPN RIO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1723", "Equipamento": "SUNGUN INOVA LAN  12807", "Patrimonio": "011100", "NS": "001110", "Grupo": "ANGRA DOS REIS", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
-  {"id_item": "1723", "Equipamento": "SUNGUN INOVA LAN  12807", "Patrimonio": "011101", "NS": "101110", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
+  {"id_item": "1723", "Equipamento": "SUNGUN INOVA LAN  12807", "Patrimonio": "011101", "NS": "101110", "Grupo": "INATIVO", "Cliente": "", "Observacoes": "OFFS:\r\nDISPLAY\r\nBOTÕES\r\nBATERIA\r\nPLACA PRINCIPAL\r\nERA DO ATEGO------------------------\r\nESCRITO EM: 06/11/2026 10:42"},
   {"id_item": "1723", "Equipamento": "SUNGUN INOVA LAN  12807", "Patrimonio": "011102", "NS": "201110", "Grupo": "PENDENTES ATEGO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1770", "Equipamento": "SWITCH NETGEAR AV LINE M  4250   26  G  4  F POE", "Patrimonio": "011103", "NS": "7KJ14B6UA015F", "Grupo": "SEM GRUPO", "Cliente": "", "Observacoes": "ENVIADO PARA O JOÃO FAZER ATUALIZAÇÃO NO DIA 04/02"},
   {"id_item": "1770", "Equipamento": "SWITCH NETGEAR AV LINE M  4250   26  G  4  F POE", "Patrimonio": "011104", "NS": "7KJ14B5PA0169", "Grupo": "SNG4", "Cliente": "", "Observacoes": "ENVIADO PARA O JOAO FAZER UMA ATUALIZAÇÃO NO DIA 04/02"},
