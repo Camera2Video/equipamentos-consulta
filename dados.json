@@ -3401,7 +3401,7 @@
   {"id_item": "393", "Equipamento": "CARREGADOR DE BATERIAS SMART CHARGER SCL  200", "Patrimonio": "006998", "NS": "0502/2000050", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "170", "Equipamento": "BATERIA NP  970", "Patrimonio": "006999", "NS": "999600", "Grupo": "INATIVO", "Cliente": "", "Observacoes": "SUCATA"},
   {"id_item": "428", "Equipamento": "CARTAO DE MEMORIA XQD  128  GB", "Patrimonio": "007000", "NS": "282DNKM792", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
-  {"id_item": "848", "Equipamento": "HEADPHONE SONY MDR  7506", "Patrimonio": "007001", "NS": "HP70021", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": "SENDO RETIRADO DA KRA (UM DE ÁUDIO) E COLOCADO NA SALA DE EQUIPAMENTOS - ESCRITO EM 02/03/26\r\n*************************************************"},
+  {"id_item": "848", "Equipamento": "HEADPHONE SONY MDR  7506", "Patrimonio": "007001", "NS": "HP70021", "Grupo": "ANGRA DOS REIS", "Cliente": "", "Observacoes": "SENDO RETIRADO DA KRA (UM DE ÁUDIO) E COLOCADO NA SALA DE EQUIPAMENTOS - ESCRITO EM 02/03/26\r\n*************************************************"},
   {"id_item": "848", "Equipamento": "HEADPHONE SONY MDR  7506", "Patrimonio": "007002", "NS": "200700", "Grupo": "ANGRA DOS REIS", "Cliente": "", "Observacoes": ""},
   {"id_item": "518", "Equipamento": "CONTROLADORA STREAM DECK XL", "Patrimonio": "007003", "NS": "CL13K1A02111", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "562", "Equipamento": "CONVERSOR AJA U TAP TO SDI", "Patrimonio": "007004", "NS": "K0585861", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
