@@ -122,7 +122,7 @@
   {"id_item": "2167", "Equipamento": "NOBREAK APC SMART UPS RT 6000 VA 6000VA (SURT6000XLI)", "Patrimonio": "012363", "NS": "Q51158", "Grupo": "SALA TÉCNICA", "Cliente": "", "Observacoes": ""},
   {"id_item": "2168", "Equipamento": "NOBREAK APC SMART UPS RT 6000 VA 6000VA (SURT6000XLT)", "Patrimonio": "012364", "NS": "QS1350170028", "Grupo": "SALA TÉCNICA", "Cliente": "", "Observacoes": ""},
   {"id_item": "1434", "Equipamento": "NOBREAK LIEBERT EMERSON GXT  3", "Patrimonio": "012365", "NS": "1314102204AF743", "Grupo": "INATIVO", "Cliente": "", "Observacoes": "ESTE NO-BREAK É DO SEU BENTO E FOI CADASTRADO INEQUIVOCAMENTE------------------------\r\nESCRITO EM: 05/11/2026 11:29"},
-  {"id_item": "2169", "Equipamento": "FILTRO TIFFEN POLARIZADOR 95mm", "Patrimonio": "999998", "NS": "8999999", "Grupo": "LOCAÇÃO", "Cliente": "FUNDACAO CANAL 20", "Observacoes": ""},
+  {"id_item": "2169", "Equipamento": "FILTRO TIFFEN POLARIZADOR 95mm", "Patrimonio": "999998", "NS": "8999999", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "2170", "Equipamento": "ENCODER ATEME KYRION CM 5000e", "Patrimonio": "012366", "NS": "263002887", "Grupo": "FORD", "Cliente": "", "Observacoes": ""},
   {"id_item": "2170", "Equipamento": "ENCODER ATEME KYRION CM 5000e", "Patrimonio": "012367", "NS": "26300288", "Grupo": "FORD", "Cliente": "", "Observacoes": ""},
   {"id_item": "323", "Equipamento": "CAMERA SONY XDCAM PDW F 700", "Patrimonio": "000001", "NS": "12450", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
