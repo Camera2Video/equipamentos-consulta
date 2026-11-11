@@ -2809,7 +2809,7 @@
   {"id_item": "1370", "Equipamento": "MONITOR SAMSUNG  50  '' UNTU  800  G", "Patrimonio": "006349", "NS": "Y4HF3X4R309273M", "Grupo": "INATIVO", "Cliente": "", "Observacoes": "TELA QUEBRADA------------------------\r\nESCRITO EM: 26/08/2026 19:36"},
   {"id_item": "383", "Equipamento": "CARREGADOR DE BATERIAS BC L  70", "Patrimonio": "006350", "NS": "0114591", "Grupo": "ENG ESPN SP", "Cliente": "", "Observacoes": "ENG ESPN SP"},
   {"id_item": "1657", "Equipamento": "SERVIDOR APPLE XSERVE", "Patrimonio": "006351", "NS": "H00343F510S", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
-  {"id_item": "1696", "Equipamento": "SPLITTER HDMI  1  X  4", "Patrimonio": "006352", "NS": "253600", "Grupo": "FORD", "Cliente": "", "Observacoes": ""},
+  {"id_item": "1696", "Equipamento": "SPLITTER HDMI  1  X  4", "Patrimonio": "006352", "NS": "253600", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "673", "Equipamento": "DISTRIBUIDOR USB KVM EXTENDER TX", "Patrimonio": "006353", "NS": "353600", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "545", "Equipamento": "CONTROLE DE ZOON FUJINON ERD  20  A A  02", "Patrimonio": "006355", "NS": "CTR6355", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
   {"id_item": "2024", "Equipamento": "VIEWFINDER SONY HDVF  20  A", "Patrimonio": "006356", "NS": "1103165", "Grupo": "APOIO 5992 (ACCELO)", "Cliente": "", "Observacoes": ""},
