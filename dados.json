@@ -2946,7 +2946,7 @@
   {"id_item": "1553", "Equipamento": "RECEPTOR DIGITAL CENTURY MIDIABOX B  4", "Patrimonio": "006488", "NS": "RCP6488", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "434", "Equipamento": "CARTAO HAMA SDHC  1  GB", "Patrimonio": "006489", "NS": "6451AG", "Grupo": "SNG4", "Cliente": "", "Observacoes": "CARTÃO EM USO NO PAINEL(PAT:007386) DO SWICHTERAINEL DE CONTROLE HVS-492 HANABI FOR.A"},
   {"id_item": "606", "Equipamento": "CONVERSOR MONITOR MAC X HDMI", "Patrimonio": "006490", "NS": "CMM6490", "Grupo": "ENG ESPN SP", "Cliente": "", "Observacoes": "NA PARTE DE INFORMÁTICA------------------------\r\nESCRITO EM: 08/07/2026 17:32"},
-  {"id_item": "1483", "Equipamento": "PAINEL DE LED LITEPANELS ASTRA  30  X  30", "Patrimonio": "006491", "NS": "PL006491", "Grupo": "INATIVO", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
+  {"id_item": "1483", "Equipamento": "PAINEL DE LED LITEPANELS ASTRA  30  X  30", "Patrimonio": "006491", "NS": "PL006491", "Grupo": "ENG ESPN SP", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
   {"id_item": "1483", "Equipamento": "PAINEL DE LED LITEPANELS ASTRA  30  X  30", "Patrimonio": "006492", "NS": "PL006492", "Grupo": "ENG ESPN SP", "Cliente": "", "Observacoes": ""},
   {"id_item": "1483", "Equipamento": "PAINEL DE LED LITEPANELS ASTRA  30  X  30", "Patrimonio": "006493", "NS": "PL006493", "Grupo": "INATIVO", "Cliente": "", "Observacoes": ">>REFLETOR COM PLACA QUEIMADA E FICOU COMO SUCATA PARA REAPROVEITAR AS ALGUMAS PEÇAS<<"},
   {"id_item": "1760", "Equipamento": "SWITCH DLINK DGS  1210   10  P", "Patrimonio": "006494", "NS": "S34O2IA004391", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
