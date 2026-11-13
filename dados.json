@@ -3536,7 +3536,7 @@
   {"id_item": "1548", "Equipamento": "RCP CV RCP  100  MARSHALL", "Patrimonio": "007186", "NS": "10613-18410", "Grupo": "5992", "Cliente": "", "Observacoes": ""},
   {"id_item": "609", "Equipamento": "CONVERSOR SDI X HDMI", "Patrimonio": "007187", "NS": "86688765", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "609", "Equipamento": "CONVERSOR SDI X HDMI", "Patrimonio": "007188", "NS": "8668779", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
-  {"id_item": "307", "Equipamento": "CAMERA SONY HXC FB  80", "Patrimonio": "007189", "NS": "113102", "Grupo": "APOIO FORD", "Cliente": "", "Observacoes": "ESTÁ NA SALA DE PRODUÇÃO; IRÁ PARA O FORD - ESCRITO EM 06/01/26"},
+  {"id_item": "307", "Equipamento": "CAMERA SONY HXC FB  80", "Patrimonio": "007189", "NS": "113102", "Grupo": "APOIO FORD", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": "ESTÁ NA SALA DE PRODUÇÃO; IRÁ PARA O FORD - ESCRITO EM 06/01/26"},
   {"id_item": "238", "Equipamento": "BRUT LED HB BRT  400  WA", "Patrimonio": "007190", "NS": "HBL400WA0620200013", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "562", "Equipamento": "CONVERSOR AJA U TAP TO SDI", "Patrimonio": "007191", "NS": "K0585869", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "880", "Equipamento": "HYPERDECK BLACKMAGIC STUDIO HD PLUS", "Patrimonio": "007192", "NS": "8647916", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
