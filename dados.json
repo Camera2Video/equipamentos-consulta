@@ -3856,7 +3856,7 @@
   {"id_item": "97", "Equipamento": "BANDEJA DIO", "Patrimonio": "007527", "NS": "725700", "Grupo": "SEM GRUPO", "Cliente": "", "Observacoes": ""},
   {"id_item": "97", "Equipamento": "BANDEJA DIO", "Patrimonio": "007528", "NS": "825700", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "595", "Equipamento": "CONVERSOR TP LINK FIBRA  TO ETHERNET MC  220  L", "Patrimonio": "007529", "NS": "Y215043001435", "Grupo": "SNG4", "Cliente": "", "Observacoes": "MODULO CONECTOR MINIGBIC:\r\nN.S: 22120J0001606"},
-  {"id_item": "839", "Equipamento": "HEADPHONE SENNEHEISER HD  26  PRO", "Patrimonio": "007532", "NS": "1216103667", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
+  {"id_item": "839", "Equipamento": "HEADPHONE SENNEHEISER HD  26  PRO", "Patrimonio": "007532", "NS": "1216103667", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "", "Observacoes": ""},
   {"id_item": "1782", "Equipamento": "SWITCH UBIQUITI EDGE SWITCH  8   150  W", "Patrimonio": "007533", "NS": "68D79A4C0E1D", "Grupo": "PENDENTES SNG4", "Cliente": "", "Observacoes": ""},
   {"id_item": "571", "Equipamento": "CONVERSOR BLACKMAGIC OPTICAL TO SDI  12  G", "Patrimonio": "007534", "NS": "8674795", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "", "Observacoes": "PARA O ATEGO - ENTREGUE AO MARLON - ESCRITO EM 16/04/26\r\n********************************************\r\nDEIXADO COMIGO POR FALTA DE USO - ESCRITO EM 14/04/26\r\n********************************************\r\nPARA O BOI BRABO, FIXO - ESCRITO EM 14/04/26"},
   {"id_item": "1438", "Equipamento": "NOBREAK GXT  5   10  KMVRT  6  UXLN", "Patrimonio": "007535", "NS": "2121001567BWFL6", "Grupo": "SNG3", "Cliente": "", "Observacoes": ""},
