@@ -5381,7 +5381,7 @@
   {"id_item": "1911", "Equipamento": "TRIPE DE ILUMINACAO MCI LS  288  T", "Patrimonio": "010073", "NS": "370010", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1911", "Equipamento": "TRIPE DE ILUMINACAO MCI LS  288  T", "Patrimonio": "010074", "NS": "470010", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1911", "Equipamento": "TRIPE DE ILUMINACAO MCI LS  288  T", "Patrimonio": "010075", "NS": "570010", "Grupo": "ENG AMARELA (BY1) ESPN RIO", "Cliente": "", "Observacoes": ""},
-  {"id_item": "1988", "Equipamento": "V MIX PADRAO TORRE INTEL CORE", "Patrimonio": "010076", "NS": "RM41300-50-3", "Grupo": "PENDENTES SNG2", "Cliente": "", "Observacoes": ""},
+  {"id_item": "1988", "Equipamento": "V MIX PADRAO TORRE INTEL CORE", "Patrimonio": "010076", "NS": "RM41300-50-3", "Grupo": "SNG2", "Cliente": "", "Observacoes": ""},
   {"id_item": "1194", "Equipamento": "MICROFONE SENAL MXGN  18  C COM BASE INTEGRADA", "Patrimonio": "010177", "NS": "771010", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1194", "Equipamento": "MICROFONE SENAL MXGN  18  C COM BASE INTEGRADA", "Patrimonio": "010178", "NS": "871010", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1194", "Equipamento": "MICROFONE SENAL MXGN  18  C COM BASE INTEGRADA", "Patrimonio": "010179", "NS": "971010", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
