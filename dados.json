@@ -4736,7 +4736,7 @@
   {"id_item": "1972", "Equipamento": "TV SAMSUNG  64  PL64D550C1GXZD", "Patrimonio": "009310", "NS": "Z11V3XLB600526M", "Grupo": "INATIVO", "Cliente": "", "Observacoes": "TELA RACHADA; VISTO PELO PAULINHO, A POSSIBILIDADE DE REPARO É INVIÁVEL EM FUNÇÃO DO CUSTO------------------------\r\nESCRITO EM: 14/07/2026 12:13"},
   {"id_item": "1328", "Equipamento": "MONITOR KROMA TELECOM LM  5015  A  11", "Patrimonio": "009311", "NS": "00-8A15-0374", "Grupo": "SEM GRUPO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1328", "Equipamento": "MONITOR KROMA TELECOM LM  5015  A  11", "Patrimonio": "009312", "NS": "00-8A-15-0402", "Grupo": "SEM GRUPO", "Cliente": "", "Observacoes": ""},
-  {"id_item": "1327", "Equipamento": "MONITOR KROMA TELECOM HD LM  6017  A  12   07", "Patrimonio": "009313", "NS": "07-8A19-1032", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
+  {"id_item": "1327", "Equipamento": "MONITOR KROMA TELECOM HD LM  6017  A  12   07", "Patrimonio": "009313", "NS": "07-8A19-1032", "Grupo": "APOIO SNG2 (VW)", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
   {"id_item": "1328", "Equipamento": "MONITOR KROMA TELECOM LM  5015  A  11", "Patrimonio": "009314", "NS": "00-8A15-0376", "Grupo": "SEM GRUPO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1966", "Equipamento": "TV SAMSUNG  32  UN32D5000PG", "Patrimonio": "009315", "NS": "Z10R3XCCA03381W", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1956", "Equipamento": "TV LG  26 LC7R", "Patrimonio": "009316", "NS": "801AZFM37211", "Grupo": "ANGRA DOS REIS", "Cliente": "", "Observacoes": "ANGRA - PATRIMÔNIO 000004 CADASTRADO POR ENGANO------------------------\r\nESCRITO EM: 22/06/2026 13:33"},
