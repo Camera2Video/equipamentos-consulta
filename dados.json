@@ -2581,7 +2581,7 @@
   {"id_item": "1612", "Equipamento": "REMOTE CONTROL SONY RCP  1000", "Patrimonio": "006111", "NS": "104588", "Grupo": "5992", "Cliente": "", "Observacoes": ""},
   {"id_item": "1390", "Equipamento": "MONITOR SONY LMD  941  W", "Patrimonio": "006112", "NS": "3002525", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "474", "Equipamento": "CCU SONY HXCU FB  80", "Patrimonio": "006113", "NS": "CCU6113", "Grupo": "INATIVO", "Cliente": "", "Observacoes": ""},
-  {"id_item": "474", "Equipamento": "CCU SONY HXCU FB  80", "Patrimonio": "006114", "NS": "100017", "Grupo": "FORD", "Cliente": "", "Observacoes": "NA SALA DE PRODUÇÃO NO MOMENTO - ESCRITO EM 06/04/26"},
+  {"id_item": "474", "Equipamento": "CCU SONY HXCU FB  80", "Patrimonio": "006114", "NS": "100017", "Grupo": "FORD", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": "NA SALA DE PRODUÇÃO NO MOMENTO - ESCRITO EM 06/04/26"},
   {"id_item": "597", "Equipamento": "CONVERSOR BLACKMAGIC HDMI TO SDI", "Patrimonio": "006115", "NS": "511600", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "943", "Equipamento": "LAPTOP DELL INSPIRON  15", "Patrimonio": "006116", "NS": "DQDDP63", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1562", "Equipamento": "RECEPTOR PHONAK WIRELESS", "Patrimonio": "006117", "NS": "C55020", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
