@@ -258,6 +258,11 @@
     margin-bottom: 2px;
   }
 
+  .campo .valor.grupo-inativo {
+    color: #C62828;
+    font-weight: 700;
+  }
+
   .campo .valor {
     color: var(--ink);
     overflow-wrap: anywhere;
@@ -478,7 +483,7 @@
             return `
         <div class="campo">
           <span class="rotulo">${chave}</span>
-          <span class="valor">${registro[chave] || '—'}${selo}</span>
+          <span class="valor${normalizar(String(registro[chave] || '')) === 'INATIVO' ? ' grupo-inativo' : ''}">${registro[chave] || '—'}${selo}</span>
         </div>
       `;
           }
