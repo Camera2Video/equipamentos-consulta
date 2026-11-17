@@ -186,7 +186,7 @@
   {"id_item": "2144", "Equipamento": "NOBREAK VERTIV 10 KVA KMVRT  6  UXLN", "Patrimonio": "000060", "NS": "2200601847BWFL6", "Grupo": "SNG3", "Cliente": "MANUTENCAO EXTERNA", "Observacoes": ""},
   {"id_item": "1099", "Equipamento": "MATTE BOX CHROSZIEL", "Patrimonio": "000068", "NS": "MB3245", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1223", "Equipamento": "MIXER SHURE FP  33", "Patrimonio": "000069", "NS": "70251989", "Grupo": "LOCAÇÃO", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
-  {"id_item": "1223", "Equipamento": "MIXER SHURE FP  33", "Patrimonio": "000070", "NS": "62061669", "Grupo": "ENG VERDE ESPN RIO", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": ""},
+  {"id_item": "1223", "Equipamento": "MIXER SHURE FP  33", "Patrimonio": "000070", "NS": "62061669", "Grupo": "INATIVO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1223", "Equipamento": "MIXER SHURE FP  33", "Patrimonio": "000071", "NS": "42629080", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "1224", "Equipamento": "MIXER SHURE FP  42", "Patrimonio": "000074", "NS": "42629080", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "841", "Equipamento": "HEADPHONE SENNHEISER HD  25   1  II", "Patrimonio": "000076", "NS": "HP355100", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
