@@ -7321,7 +7321,7 @@
   {"id_item": "1416", "Equipamento": "MOUSE BASIC OPTICAL MICROSOFT WIRED 600 DESKTOP V  2  .  0", "Patrimonio": "012207", "NS": "702210", "Grupo": "SNG4", "Cliente": "", "Observacoes": "ENTREGUE AO ABEL------------------------\r\nESCRITO EM: 28/07/2026 14:29"},
   {"id_item": "1818", "Equipamento": "TECLADO MICROSOFT WIRED 600 DESKTOP V  2  .  0", "Patrimonio": "012208", "NS": "0065814641203", "Grupo": "FORD", "Cliente": "", "Observacoes": "ENTREGUE AO CHINNA------------------------\r\nESCRITO EM: 20/07/2026 09:58"},
   {"id_item": "1416", "Equipamento": "MOUSE BASIC OPTICAL MICROSOFT WIRED 600 DESKTOP V  2  .  0", "Patrimonio": "012209", "NS": "902210", "Grupo": "FORD", "Cliente": "", "Observacoes": "ENTREGUE AO CHINNA------------------------\r\nESCRITO EM: 20/07/2026 09:58"},
-  {"id_item": "1818", "Equipamento": "TECLADO MICROSOFT WIRED 600 DESKTOP V  2  .  0", "Patrimonio": "012210", "NS": "0065814637792", "Grupo": "", "Cliente": "", "Observacoes": ""},
+  {"id_item": "1818", "Equipamento": "TECLADO MICROSOFT WIRED 600 DESKTOP V  2  .  0", "Patrimonio": "012210", "NS": "0065814637792", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1416", "Equipamento": "MOUSE BASIC OPTICAL MICROSOFT WIRED 600 DESKTOP V  2  .  0", "Patrimonio": "012211", "NS": "112210", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1818", "Equipamento": "TECLADO MICROSOFT WIRED 600 DESKTOP V  2  .  0", "Patrimonio": "012212", "NS": "0065814607489", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1416", "Equipamento": "MOUSE BASIC OPTICAL MICROSOFT WIRED 600 DESKTOP V  2  .  0", "Patrimonio": "012213", "NS": "312210", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
