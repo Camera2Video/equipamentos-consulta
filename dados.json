@@ -1700,7 +1700,7 @@
   {"id_item": "572", "Equipamento": "CONVERSOR BLACKMAGIC OPTICAL TO SDI  3  G", "Patrimonio": "004228", "NS": "CV4228", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "1269", "Equipamento": "MONITOR DE AUDIO FOSTEX  6301  BE", "Patrimonio": "004229", "NS": "1223828", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "1811", "Equipamento": "SYNC PULSE GENERATOR LYNX TECHNIK", "Patrimonio": "004231", "NS": "PG1707", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
-  {"id_item": "1558", "Equipamento": "IRD REALMAGIC RM  1000", "Patrimonio": "004234", "NS": "IRD004234", "Grupo": "SEM GRUPO", "Cliente": "", "Observacoes": ""},
+  {"id_item": "1558", "Equipamento": "IRD REALMAGIC RM  1000", "Patrimonio": "004234", "NS": "IRD004234", "Grupo": "INATIVO", "Cliente": "", "Observacoes": ""},
   {"id_item": "913", "Equipamento": "IRD REAL MAGIC RM  1000", "Patrimonio": "004235", "NS": "100014223001", "Grupo": "INATIVO", "Cliente": "", "Observacoes": "NA SALA TÉCNICA - 17/11/25"},
   {"id_item": "181", "Equipamento": "BATERIA PORTATIL GOPRO HERO  3", "Patrimonio": "004237", "NS": "BT4237", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1916", "Equipamento": "TRIPE FARSEEING LUVA / PINO", "Patrimonio": "004238", "NS": "692FSG0630007", "Grupo": "SEM GRUPO", "Cliente": "", "Observacoes": ""},
