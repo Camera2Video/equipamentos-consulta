@@ -2194,7 +2194,7 @@
   {"id_item": "1945", "Equipamento": "TRIPE SUPORTE GUARDA SOL", "Patrimonio": "007695", "NS": "596007", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
   {"id_item": "1945", "Equipamento": "TRIPE SUPORTE GUARDA SOL", "Patrimonio": "007698", "NS": "896007", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "100", "Equipamento": "BASE GUARDA SOL", "Patrimonio": "007699", "NS": "996007", "Grupo": "SEM GRUPO", "Cliente": "", "Observacoes": ""},
-  {"id_item": "72", "Equipamento": "ANTENA EXTERNA DE TV DIGITAL", "Patrimonio": "007700", "NS": "007700", "Grupo": "PENDENTES 5992", "Cliente": "", "Observacoes": ""},
+  {"id_item": "72", "Equipamento": "ANTENA EXTERNA DE TV DIGITAL", "Patrimonio": "007700", "NS": "007700", "Grupo": "5992", "Cliente": "", "Observacoes": ""},
   {"id_item": "176", "Equipamento": "BATERIA PANASONIC AG VBR  118", "Patrimonio": "007801", "NS": "1078", "Grupo": "ALERJ", "Cliente": "", "Observacoes": "*KIT 3 CAMERA PANASONIC AG-CX350 – PAT. 007807"},
   {"id_item": "177", "Equipamento": "BATERIA PANASONIC AG VBR  59", "Patrimonio": "007802", "NS": "2087", "Grupo": "ANGRA DOS REIS", "Cliente": "", "Observacoes": ""},
   {"id_item": "177", "Equipamento": "BATERIA PANASONIC AG VBR  59", "Patrimonio": "007805", "NS": "5087", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
