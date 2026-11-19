@@ -1,5 +1,5 @@
 [
-  {"id_item": "2024", "Equipamento": "VIEWFINDER SONY HDVF  20  A", "Patrimonio": "006192", "NS": "25794", "Grupo": "LOCAÇÃO", "Cliente": "ATEGO", "Observacoes": ""},
+  {"id_item": "2024", "Equipamento": "VIEWFINDER SONY HDVF  20  A", "Patrimonio": "006192", "NS": "25794", "Grupo": "APOIO FORD", "Cliente": "ATEGO", "Observacoes": ""},
   {"id_item": "1762", "Equipamento": "SWITCH UBIQUITI EDGE SWITCH  48   750  W", "Patrimonio": "012281", "NS": "1847G18E829224EB5", "Grupo": "FORD", "Cliente": "", "Observacoes": ""},
   {"id_item": "1781", "Equipamento": "SWITCH UBIQUITI EDGE SWITCH  48   500  W", "Patrimonio": "012282", "NS": "2050GF492BGA2BA52", "Grupo": "SNG2", "Cliente": "", "Observacoes": "YUAN------------------------\r\nESCRITO EM: 26/10/2026 16:23\r\nADQUIRIDO COM AVARIA NA PARTE DE SUPERIOR DO EQUIPAMENTO, CONFORME FOTO ENVIADA GRUPO TRÁFEGO"},
   {"id_item": "109", "Equipamento": "BASTIDOR  6800  PLUS HARRIS", "Patrimonio": "000003", "NS": "LHTI442576022", "Grupo": "ALERJ", "Cliente": "", "Observacoes": "INDO PARA ANGRA EM 09/12/25 - ESCRITO EM 05/12/25"},
@@ -536,7 +536,7 @@
   {"id_item": "852", "Equipamento": "HEADSET CLEAR COM CC  95", "Patrimonio": "000931", "NS": "HD203", "Grupo": "INATIVO", "Cliente": "", "Observacoes": "ERA DO VW - SUCATA - ESCRITO EM 07/04/26\r\n**************************************************\r\nVW  INDO PARA MANUTENÇÃO 08/04/24 MICROFONE DANIFICADO  LIBERADO 09/07/2024"},
   {"id_item": "1878", "Equipamento": "TRANSMISSOR SENNHEISER EW  100  G  2", "Patrimonio": "000937", "NS": "157389", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1099", "Equipamento": "MATTE BOX CHROSZIEL", "Patrimonio": "000942", "NS": "9886", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
-  {"id_item": "2024", "Equipamento": "VIEWFINDER SONY HDVF  20  A", "Patrimonio": "000944", "NS": "172210", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "", "Observacoes": ""},
+  {"id_item": "2024", "Equipamento": "VIEWFINDER SONY HDVF  20  A", "Patrimonio": "000944", "NS": "172210", "Grupo": "APOIO FORD", "Cliente": "", "Observacoes": ""},
   {"id_item": "1386", "Equipamento": "MONITOR SONY LMD  9030", "Patrimonio": "000947", "NS": "1007640", "Grupo": "SALA DE REUNIÃO", "Cliente": "", "Observacoes": "EQUIPAMENTO SUCATA, DEIXADO NA SALA DE REUNIÃO A PEDIDO DO JORGINHO; ALTERADO O GRUPO DE SUCATA PARA SALA DE REUNIÃO, PORÉM, RATIFICANDO: É SUCATA------------------------\r\nESCRITO EM: 16/09/2026 13:42\r\nDEIXADO NO PÓLO ONTEM, PELO RICARDO. ESTÁ NA SALA DE REUNIÃO------------------------\r\nESCRITO EM: 10/09/2026 10:19\r\nCONDENADO PELO PAULINHO"},
   {"id_item": "626", "Equipamento": "DECK SONY DSR  1500  A", "Patrimonio": "000949", "NS": "0102951", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "1186", "Equipamento": "MICROFONE JTS NX  6", "Patrimonio": "000957", "NS": "JTS78", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
