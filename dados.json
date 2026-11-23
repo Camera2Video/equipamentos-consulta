@@ -710,7 +710,7 @@
   {"id_item": "1870", "Equipamento": "TRANSMISSOR LECTROSONICS IFB T  4", "Patrimonio": "003973", "NS": "3636", "Grupo": "PENDENTES ACCELO", "Cliente": "", "Observacoes": ""},
   {"id_item": "1561", "Equipamento": "RECEPTOR LECTROSONICS IFB R  1  A", "Patrimonio": "003974", "NS": "18964", "Grupo": "APOIO 5992 (ACCELO)", "Cliente": "", "Observacoes": ""},
   {"id_item": "1718", "Equipamento": "SUNGUN ENERGIA PROLITE TV", "Patrimonio": "003976", "NS": "A01534", "Grupo": "INATIVO", "Cliente": "", "Observacoes": ""},
-  {"id_item": "1237", "Equipamento": "MODULADOR NEWTEC AZ  110", "Patrimonio": "003978", "NS": "40002127", "Grupo": "SNG2", "Cliente": "", "Observacoes": ""},
+  {"id_item": "1237", "Equipamento": "MODULADOR NEWTEC AZ  110", "Patrimonio": "003978", "NS": "40002127", "Grupo": "FORD", "Cliente": "", "Observacoes": ""},
   {"id_item": "135", "Equipamento": "BATERIA DE RADIO MOTOROLA EP  40  S", "Patrimonio": "003979", "NS": "BT2030", "Grupo": "INATIVO", "Cliente": "", "Observacoes": "DESCARTADA_NÃO CARREGA MAIS"},
   {"id_item": "506", "Equipamento": "CONSOLE CLEAR COM AB  120", "Patrimonio": "003981", "NS": "2530183", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "726", "Equipamento": "ESTACAO EXPANDER EXP  988  I", "Patrimonio": "003982", "NS": "EC3982", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
