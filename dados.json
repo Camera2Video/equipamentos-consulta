@@ -1439,7 +1439,7 @@
   {"id_item": "848", "Equipamento": "HEADPHONE SONY MDR  7506", "Patrimonio": "003488", "NS": "HD960", "Grupo": "ALERJ", "Cliente": "", "Observacoes": ""},
   {"id_item": "1870", "Equipamento": "TRANSMISSOR LECTROSONICS IFB T  4", "Patrimonio": "003492", "NS": "4232", "Grupo": "PENDENTES VW", "Cliente": "", "Observacoes": ""},
   {"id_item": "1561", "Equipamento": "RECEPTOR LECTROSONICS IFB R  1  A", "Patrimonio": "003493", "NS": "20147", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
-  {"id_item": "1373", "Equipamento": "MONITOR SAMSUNG T  22  B  300  LB", "Patrimonio": "003501", "NS": "Y38SHXHD200227T", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": "PARTE OPERAÇÃO DE VÍDEO"},
+  {"id_item": "1373", "Equipamento": "MONITOR SAMSUNG T  22  B  300  LB", "Patrimonio": "003501", "NS": "Y38SHXHD200227T", "Grupo": "APOIO SNG2 (VW)", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": "PARTE OPERAÇÃO DE VÍDEO"},
   {"id_item": "52", "Equipamento": "AMPLIFICADOR DE HEADPHONE JK AUDIO REMOTEAMP", "Patrimonio": "003502", "NS": "RA04000", "Grupo": "APOIO 5992 (ACCELO)", "Cliente": "", "Observacoes": ""},
   {"id_item": "52", "Equipamento": "AMPLIFICADOR DE HEADPHONE JK AUDIO REMOTEAMP", "Patrimonio": "003504", "NS": "RA04098", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
   {"id_item": "33", "Equipamento": "ADAPTADOR DE MONITOR AC  940  W", "Patrimonio": "003505", "NS": "3012937", "Grupo": "APOIO 5992 (ACCELO)", "Cliente": "", "Observacoes": ""},
