@@ -3645,7 +3645,7 @@
   {"id_item": "595", "Equipamento": "CONVERSOR TP LINK FIBRA  TO ETHERNET MC  220  L", "Patrimonio": "007268", "NS": "Y215043001415", "Grupo": "PENDENTES VW", "Cliente": "", "Observacoes": "MODULO CONECTOR MINIGBIC:\r\nN.S: 22120J0002205"},
   {"id_item": "1605", "Equipamento": "REGUA DE AC  12  POSICOES", "Patrimonio": "007269", "NS": "FSNB76156", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
   {"id_item": "595", "Equipamento": "CONVERSOR TP LINK FIBRA  TO ETHERNET MC  220  L", "Patrimonio": "007270", "NS": "Y215043001425", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": "MODULO CONECTOR MINIGBIC:\r\nN.S: 22120J0001638"},
-  {"id_item": "595", "Equipamento": "CONVERSOR TP LINK FIBRA  TO ETHERNET MC  220  L", "Patrimonio": "007271", "NS": "Y215043001414", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": "APOIO VW\r\nMODULO CONECTOR MINIGBIC:\r\nN.S: 22120J0000813"},
+  {"id_item": "595", "Equipamento": "CONVERSOR TP LINK FIBRA  TO ETHERNET MC  220  L", "Patrimonio": "007271", "NS": "Y215043001414", "Grupo": "LOCAÇÃO", "Cliente": "SNG2", "Observacoes": "APOIO VW\r\nMODULO CONECTOR MINIGBIC:\r\nN.S: 22120J0000813"},
   {"id_item": "863", "Equipamento": "HEADSET SENNHEISER HMD  26", "Patrimonio": "007272", "NS": "00300840", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
   {"id_item": "1196", "Equipamento": "MICROFONE SENNHEISER MD  431  II", "Patrimonio": "007273", "NS": "35753", "Grupo": "APOIO SNG2 (VW)", "Cliente": "", "Observacoes": ""},
   {"id_item": "1605", "Equipamento": "REGUA DE AC  12  POSICOES", "Patrimonio": "007274", "NS": "FSNB76156", "Grupo": "APOIO SNG4 (ATEGO)", "Cliente": "", "Observacoes": ""},
