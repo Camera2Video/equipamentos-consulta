@@ -2192,7 +2192,7 @@
   {"id_item": "758", "Equipamento": "FONTE AUTOMOTIVA JFA STORM  70  A SCI BIVOLT", "Patrimonio": "007634", "NS": "436700", "Grupo": "FORD", "Cliente": "", "Observacoes": ""},
   {"id_item": "503", "Equipamento": "CONDENSADOR DE AR ELGIN PVFE  60  C  2  VA", "Patrimonio": "007645", "NS": "ARC112400120562", "Grupo": "SUMARE", "Cliente": "", "Observacoes": "PAR COM O PATRIMÔNIO 7652 (EVAPORADOR)"},
   {"id_item": "1945", "Equipamento": "TRIPE SUPORTE GUARDA SOL", "Patrimonio": "007649", "NS": "", "Grupo": "LOCAÇÃO", "Cliente": "", "Observacoes": ""},
-  {"id_item": "1621", "Equipamento": "CONTROLADORA EVS LSM XT", "Patrimonio": "007651", "NS": "14991", "Grupo": "SNG4", "Cliente": "MANUTENCAO CAMERA2", "Observacoes": "**STAND-BY NO SNG4**"},
+  {"id_item": "1621", "Equipamento": "CONTROLADORA EVS LSM XT", "Patrimonio": "007651", "NS": "14991", "Grupo": "INATIVO", "Cliente": "", "Observacoes": "**STAND-BY NO SNG4**"},
   {"id_item": "730", "Equipamento": "EVAPORADOR DE AR ELGIN PVFI  60  C  2  DA", "Patrimonio": "007652", "NS": "ARC112400139515", "Grupo": "SUMARE", "Cliente": "", "Observacoes": ""},
   {"id_item": "485", "Equipamento": "CHAVEADOR KVM HDMI & SUB", "Patrimonio": "007653", "NS": "356700", "Grupo": "PENDENTES 5992", "Cliente": "", "Observacoes": ""},
   {"id_item": "593", "Equipamento": "CONVERSOR E GRAVADOR DIGITAL HDTV  9000", "Patrimonio": "007654", "NS": "15550001118644", "Grupo": "PENDENTES 5992", "Cliente": "", "Observacoes": "COM CONTROLE REMOTO"},
